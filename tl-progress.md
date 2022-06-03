@@ -40,7 +40,7 @@ Air Groove | Complete | [burritoblaster][]
 Agnes Tachyon | Complete | [Ren][] (ep 1), [noccu][] + [xct][] (ep 2-3), [xct][] (ep 4-7)
 Biwa Hayahide | Complete | deepl (contributed by CryDuringItAll)
 Daiwa Scarlet | Complete | [XiantheMiguel][] (commissioned by AhriParty)
-Eishin Flash | Complete, In progress | deepl, [noccu]
+Eishin Flash | Complete, In progress | deepl, [noccu] (ep 1)
 El Condor Pasa | Complete | deepl (contributed by CryDuringItAll)
 Fine Motion | Complete | [LotoDS][]
 Gold City | Complete | [Hades of Games][]
@@ -134,7 +134,7 @@ Yume wo Kakeru! | Complete | [SkySubs](https://skysubs.carrd.co/)
 
 
 [noccu]: https://ko-fi.com/noccyu
-[Ren]: https://watatomo.github.io/tl/
+[Ren]: https://tomoya.moe
 [Holo]: https://www.youtube.com/channel/UC1sbBH3dYW5K-WVKjFF2uEA
 [CatNipHoarder]: https://twitter.com/CatNipHoarder
 [Vacxy]: https://ko-fi.com/mobagetranslations
