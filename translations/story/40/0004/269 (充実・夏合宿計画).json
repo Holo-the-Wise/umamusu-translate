@@ -1,0 +1,746 @@
+{
+    "version": 5,
+    "bundle": "O32LPXZLZLSQNAOYCSXC5NH5JTOKEK54",
+    "type": "story",
+    "storyId": "400004269",
+    "title": "充実・夏合宿計画",
+    "text": [
+        {
+            "jpName": "イクノディクタス",
+            "enName": "",
+            "jpText": "皆さん、部屋に荷物は置きましたか？\nでは、これから合宿期間中の予定を――",
+            "enText": "Have you all put your luggage in your rooms? \nNow, we are going to go over our schedule for \nthe duration of the camp―",
+            "nextBlock": 2,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 8038694142696317612
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 4344755735012441748
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -2830169239042895338
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3179025262114163569
+                }
+            ],
+            "pathId": -7238556613057981560,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "ツインターボ",
+            "enName": "",
+            "jpText": "はいはいはーい！",
+            "enText": "Yes, yes, yes!",
+            "nextBlock": 3,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 9219902514363767525
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 4167701900541562817
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 4792693194613219351
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 1187254750504371095
+                }
+            ],
+            "pathId": -8822065637011460815,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "イクノディクタス",
+            "enName": "",
+            "jpText": "はい、ターボさん。",
+            "enText": "Yes, Ms. Turbo.",
+            "nextBlock": 4,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": -3218968786692389034
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -5369632780576515177
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 1946414283671703031
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -3896986958670665611
+                }
+            ],
+            "pathId": -1017594478060832801,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "ツインターボ",
+            "enName": "",
+            "jpText": "スイカ割りやる！",
+            "enText": "I'll split a watermelon!",
+            "nextBlock": 5,
+            "origClipLength": 55,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -6255510876838955858
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -2189544782067833121
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -3110956208438530861
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 1403721252161597627
+                }
+            ],
+            "pathId": -6329447001043562958,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ナイスネイチャ",
+            "enName": "",
+            "jpText": "いやアンタ、\nまずはトレーニングをね……。",
+            "enText": "No, Anta, you need to train first. ……",
+            "nextBlock": 6,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 7921226504257216159
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 1630295843534650205
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 5292184999835565580
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -1078686071239838589
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 542661887468674840
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1593567521364671545
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 7607040624909724086
+                }
+            ],
+            "pathId": -8037122824149605904,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "イクノディクタス",
+            "enName": "",
+            "jpText": "ネイチャさんの仰る通りです。\nまずはこちらで組んだトレーニングを\nこなしていただきます。",
+            "enText": "You are right, Ms. Necha. First of \nall, you will have to do the training \nwe have arranged for you.",
+            "nextBlock": 7,
+            "origClipLength": 102,
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 4445059526226804302
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 6952077222029658015
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -3448404845275659897
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 5339961108746058599
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 7582318965160381291
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 375473671052795721
+                }
+            ],
+            "pathId": 864262257129582235,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "イクノディクタス",
+            "enName": "",
+            "jpText": "ですがスイカには、水分、ミネラル、\nビタミンや糖分なども含まれ\n夏バテ対策によいと聞きます。",
+            "enText": "However, watermelon also contains water, \nminerals, vitamins, and sugar, and is said to \nbe good for combating summer fatigue.",
+            "nextBlock": 8,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 4407233450532258056
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 137986645466509577
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 890807415514287747
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 4965147429546472174
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -7036853810425407496
+                }
+            ],
+            "pathId": 9122428541369660046,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "イクノディクタス",
+            "enName": "",
+            "jpText": "よって採用します。\n休憩時間に取り入れましょう。",
+            "enText": "Therefore, adopt it. Incorporate \nit into your break time.",
+            "nextBlock": 9,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -6292170786062213502
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -3426037763453825103
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -3116775282622412628
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -9195825974093403467
+                }
+            ],
+            "pathId": 7171454616561820938,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "ナイスネイチャ",
+            "enName": "",
+            "jpText": "あ、ハイ。\n言うと思ったよ……。",
+            "enText": "Oh, hi. I knew you would say that. ……",
+            "nextBlock": 10,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 2684441353397290863
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6860557259614148067
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -3506247386045960315
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 5935512918819191707
+                }
+            ],
+            "pathId": -6277771271237415939,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "マチカネタンホイザ",
+            "enName": "",
+            "jpText": "スイカ割りかぁ……昔、砂のくぼみでコケて、\n顔面打って鼻血だしたなぁ……しみじみ。",
+            "enText": "I remember when I used to drown myself \nin a hollow in the sand and hit my \nface and got a nosebleed. ……",
+            "nextBlock": 11,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": -3075830826588043475
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -7006402064109978821
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -2813211136140256307
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 7788300792562931327
+                },
+                {
+                    "origLen": 238,
+                    "pathId": -7720386485978858664
+                },
+                {
+                    "origLen": 197,
+                    "pathId": 4827555184593408739
+                },
+                {
+                    "origLen": 206,
+                    "pathId": -5218980726944033904
+                }
+            ],
+            "pathId": 4158197806682687776,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "ツインターボ",
+            "enName": "",
+            "jpText": "じゃあ、マチタンは転んでも\n平気なようにすればいいんだ！",
+            "enText": "Then, Machitan, just make sure \nyou're okay if you fall!",
+            "nextBlock": 12,
+            "origClipLength": 81,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -4825812584869535891
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 5925861664299354601
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -363394552719788637
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -7330190018964009606
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 4208889064811344136
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4868711273172989396
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 5325409108661395276
+                }
+            ],
+            "pathId": 6078076846658250621,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "ツインターボ",
+            "enName": "",
+            "jpText": "顔に浮き輪をつける！\nこれで平気！　ターボ天才！",
+            "enText": "Float on your face! I'm \nfine now! Turbo genius!",
+            "nextBlock": 13,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -8933262077850035464
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1743946459081042704
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7574054168089236090
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -26482606747542582
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 7428077602007415549
+                }
+            ],
+            "pathId": -8960662183475608638,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "マチカネタンホイザ",
+            "enName": "",
+            "jpText": "えええ、浮き輪の穴から\n顔出してスイカ割りするのぉ！？",
+            "enText": "Yeah, you're going to stick your face out of \nthe hole in the float and split a watermelon!",
+            "nextBlock": 14,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -8426765998155049614
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 4518932284102861064
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 2004084829691862018
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -8633474985630322785
+                }
+            ],
+            "pathId": -3720874436775357639,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "マチカネタンホイザ",
+            "enName": "",
+            "jpText": "……うーん……。\nたしかに、転んでも平気……？",
+            "enText": "…… hmmm…… Indeed, you're not \nafraid to fall down……?",
+            "nextBlock": 15,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 8222734002656509491
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 7579785251218345845
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -1151090393060052410
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 3472513636457467451
+                }
+            ],
+            "pathId": -4609645229562569687,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "ナイスネイチャ",
+            "enName": "",
+            "jpText": "いやいや、悩みなさんなって。\n転ばないよう見とくから。",
+            "enText": "No, no, no, don't worry. I'll watch you so \nyou don't fall.",
+            "nextBlock": 16,
+            "origClipLength": 80,
+            "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": -6296620886831667489
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 7486915711453266099
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1991571458000158013
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3431169450456789713
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 2148552878584038401
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -3656636741344789594
+                }
+            ],
+            "pathId": -1919223808489139661,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "ナイスネイチャ",
+            "enName": "",
+            "jpText": "ていうか、ほら～……ね？\nイクノにトレーニング計画を、さ？",
+            "enText": "I mean, look at …… right? I don't know what \nto tell you about my training plan, right?",
+            "nextBlock": 17,
+            "origClipLength": 82,
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -377285445592333408
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 3852955780951119626
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -6700912887602047385
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 8203404215884424680
+                }
+            ],
+            "pathId": 3341801131533641721,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "イクノディクタス",
+            "enName": "",
+            "jpText": "……少々お待ちください。\nスイカ割りを入れたので、\n全体スケジュールを調整します。",
+            "enText": "…… Please wait a moment. I've added the \nwatermelon splitting and will adjust the \noverall schedule.",
+            "nextBlock": 18,
+            "origClipLength": 98,
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": 2125927019937360395
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -4299957612069602746
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 6051224089993991672
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -65013674159324441
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 9002892292159604555
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 5946313220673442400
+                }
+            ],
+            "pathId": -5255300001737404564,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "ツインターボ",
+            "enName": "",
+            "jpText": "あ、じゃあビーチバレーも入れて！\nあとねー、バーベキューと、お祭りも！",
+            "enText": "Oh, and then throw in beach volleyball! And, \nhey, barbecues and festivals!",
+            "nextBlock": 19,
+            "origClipLength": 90,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 1663161110245231152
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -3737963145773405864
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 7708851824957563890
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 5521223432418557653
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -3841129989863538648
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -6374454492161420244
+                }
+            ],
+            "pathId": -5361802172315368471,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "マチカネタンホイザ",
+            "enName": "",
+            "jpText": "うんうん……うん！？\n遊ぶことばっかりだね！？",
+            "enText": "Yeah yeah yeah…… yeah! All you do is play!",
+            "nextBlock": 20,
+            "origClipLength": 75,
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -268115592557031882
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -4193131976655033254
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 8106458843622630860
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 797621244864966338
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 7686782835023047008
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 7010575293204042839
+                }
+            ],
+            "pathId": 4302494686280408041,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "イクノディクタス",
+            "enName": "",
+            "jpText": "必要なトレーニングノルマをこなせば\n問題ありません。",
+            "enText": "It doesn't matter as long as you meet the \nrequired training quota.",
+            "nextBlock": 21,
+            "origClipLength": 78,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -4182134640418045711
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3244158554796549980
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 4638871105269145758
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1581177389842330745
+                }
+            ],
+            "pathId": -7489547534037623819,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "イクノディクタス",
+            "enName": "",
+            "jpText": "オーバーワークになりさえしなければ\n気分転換の意味でもありと言えます。\n花火を見に行くのもいいでしょう。",
+            "enText": "As long as you don't overwork yourself, it \ncan be a nice change of pace. Going to see \nfireworks is also a good idea.",
+            "nextBlock": 22,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -3779857830251521277
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 8440393228200473511
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 7037886302003400893
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -7667587354852111133
+                }
+            ],
+            "pathId": -8012156793163468940,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "マチカネタンホイザ",
+            "enName": "",
+            "jpText": "いいのぉ！？",
+            "enText": "No problem!",
+            "nextBlock": 23,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -3039288339126820311
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 9209988280211399962
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 7600206676940307798
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 2720891584709700931
+                }
+            ],
+            "pathId": 5448093799445061202,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "ナイスネイチャ",
+            "enName": "",
+            "jpText": "……さては、なんだかんだイクノも\nちょっと浮かれてますな、こりゃ。",
+            "enText": "…… Well, Ikuno seems to be a little bit \nexcited, doesn't she?",
+            "nextBlock": -1,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": -1720746388013384488
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -8251684898033249337
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6705508247962592149
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6488636754523782424
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 8620576290594553546
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -6680933538616781893
+                }
+            ],
+            "pathId": -8041618137401705318,
+            "blockIdx": 23
+        }
+    ],
+    "modified": 1658674078
+}

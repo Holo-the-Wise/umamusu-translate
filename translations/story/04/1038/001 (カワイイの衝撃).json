@@ -1,0 +1,1180 @@
+{
+    "version": 5,
+    "bundle": "UTPRISBSYHI7LXXWFAVMZKBU4R4ZGFGK",
+    "type": "story",
+    "storyId": "041038001",
+    "title": "カワイイの衝撃",
+    "text": [
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "――うたた寝をしていて、昔の夢を見た。",
+            "enText": "As I napped I saw a dream of the past…",
+            "nextBlock": 2,
+            "origClipLength": 69,
+            "pathId": -2518267208672712753,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "遊園地で遊んだ帰り道、\r\nお母さんとはぐれて泣いている女の子を見つけて――",
+            "enText": "As I was heading home from an amusement park I \nsaw a young girl crying because she had lost her mother.",
+            "nextBlock": 3,
+            "origClipLength": 93,
+            "choices": [
+                {
+                    "jpText": "一緒に探そうか？",
+                    "enText": "I'll help you find her.",
+                    "nextBlock": 3
+                }
+            ],
+            "pathId": 2451986953726146980,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "ウマ娘の少女",
+            "enName": "",
+            "jpText": "ほんと……！？　ありがとう、お兄ちゃん！\r\nえへへ、とっても優しいんだね……♪",
+            "enText": "Really…!? Thank you, Onee-chan! \nEhehe, you're such a nice person ♪",
+            "nextBlock": 4,
+            "origClipLength": 202,
+            "pathId": 5441268216713831529,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "ウマ娘の少女",
+            "enName": "",
+            "jpText": "ほんと……！？　ありがとう、お姉ちゃん！\r\nえへへ、とっても優しいんだね……♪",
+            "enText": "Really…!? Thank you, Onee-chan! \nEhehe, you're such a nice person ♪",
+            "nextBlock": 5,
+            "origClipLength": 202,
+            "pathId": 5856679220739258189,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "お母さんを探すうちに、女の子は泣き止み……\r\nアトラクションのお城の前に来たところで、足を止めた。",
+            "enText": "She stopped crying while we looked for her mother. \nAnd as soon as we got to the front of a \ncastle attraction she stopped and stared at it.",
+            "nextBlock": 6,
+            "origClipLength": 108,
+            "choices": [
+                {
+                    "jpText": "……夢は、お姫様かな？",
+                    "enText": "Do you want to be a princess?",
+                    "nextBlock": 6
+                }
+            ],
+            "pathId": 7641248728233631605,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "女の子の横顔があまりにも真っすぐだったので、思わず\r\nそう尋ねると……彼女は思いがけないほど大人っぽく微笑んだ。",
+            "enText": "She stared at it so intently that I had to ask. \nAnd when I did she smiled at \nme in an unexpectedly mature manner…",
+            "nextBlock": 7,
+            "origClipLength": 118,
+            "pathId": -2887619011628256396,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "ウマ娘の少女",
+            "enName": "",
+            "jpText": "あのね、私の夢は――",
+            "enText": "Well, my dream is to become…",
+            "nextBlock": 8,
+            "origClipLength": 90,
+            "pathId": -4528683625410809213,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "ある日の朝。トレセン学園の校門前に、\r\nやけにきらびやかな人だかりができていた。",
+            "enText": "One morning as I stood in front of Tracen Academy, \nI noticed a crowd of unusually dazzling individuals.",
+            "nextBlock": 9,
+            "origClipLength": 97,
+            "pathId": -6096842918831281959,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "オシャレなウマ娘",
+            "enName": "Stylish Horsegirl",
+            "jpText": "ねえねえ、この位置取り最強じゃん！？\r\n絶対超近いって！！",
+            "enText": "Hey, isn't this like the best spot!? \nI told you it was hella close!!",
+            "nextBlock": 10,
+            "origClipLength": 153,
+            "pathId": -3226031948700056751,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "ミーハーなウマ娘",
+            "enName": "Bandwagon Horsegirl",
+            "jpText": "早起きして場所取りしたかいあった～！！\r\nあわよくば、ツーショットなんて……。",
+            "enText": "It was super worth getting up early to get this spot!! \nIf I'm lucky, I might get to take a selfie with her…",
+            "nextBlock": 11,
+            "origClipLength": 255,
+            "choices": [
+                {
+                    "jpText": "あの、これは一体……？",
+                    "enText": "So uh… What's going on here?",
+                    "nextBlock": 11
+                }
+            ],
+            "pathId": 690219352398014569,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "オシャレなウマ娘",
+            "enName": "Stylish Horsegirl",
+            "jpText": "えーっ！？　トレーナーさん、知らないんですか！？\r\n今日は、ウマスタグラマー『Curren』の転入日ですよ！！",
+            "enText": "Eh!? You haven't heard, Trainer-san!? \nToday's the day that <i>the<\\i> famous Umastagrammer \n\"Curren\" is transferring to this academy!!",
+            "nextBlock": 12,
+            "origClipLength": 219,
+            "choices": [
+                {
+                    "jpText": "Curren……？",
+                    "enText": "Curren…?",
+                    "nextBlock": 12
+                }
+            ],
+            "pathId": 7506850058972126138,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "ミーハーなウマ娘",
+            "enName": "Bandwagon Horsegirl",
+            "jpText": "まさか、ご存知ない！？　あの猛者集うウマスタグラムで、\r\n300万のフォロワーを持つ自撮りの女神、Currenを！？",
+            "enText": "Hold on! You haven't heard of THE Selfie Goddess herself!? The \none who despite all the competition managed to get 3 million \nfollowers on Umastagram!  You haven't heard of <i>THAT<\\i> Curren!?",
+            "nextBlock": 13,
+            "origClipLength": 242,
+            "pathId": -4635001955428818173,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……どうやら若い子たちのアイドル的存在が転入するようだ。\r\n少し気になり、その場に留まってみると――",
+            "enText": "It seems like they're excited because an idol of sorts is \ntransferring here.  I stuck around, out of curiousity…",
+            "nextBlock": 14,
+            "origClipLength": 110,
+            "pathId": -1599770954578314550,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "校門前に1台のリムジンが止まり、少女が降りてきた……！",
+            "enText": "A limousine stopped in front of the \nschool gates and a young girl stepped out…!",
+            "nextBlock": 15,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4596706037642714472
+                }
+            ],
+            "pathId": -7966438308135970455,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "ファンたち",
+            "enName": "Fans",
+            "jpText": "きゃ～～～！！　Curren～～！！",
+            "enText": "Kyaa!! Curren!!",
+            "nextBlock": 16,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -5645827166379152132
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 9187645127449690533
+                }
+            ],
+            "pathId": -5990446354408946307,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "Curren？",
+            "enName": "",
+            "jpText": "わあっ♪　すっごい歓声！\r\nみんなカレンを待っててくれたの～！？",
+            "enText": "Waa ♪ Everyone seems so happy to see me! \nWere you waiting for me this whole time!?",
+            "nextBlock": 17,
+            "origClipLength": 177,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -2355650491495752651
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -9143119593267548261
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6554182036781083601
+                }
+            ],
+            "pathId": 1703805947281833084,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "Curren？",
+            "enName": "",
+            "jpText": "えへへ～、こーんなに歓迎してもらえるなんて――",
+            "enText": "Ehehe, I didn't expect to be welcomed like this…",
+            "nextBlock": 18,
+            "origClipLength": 129,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -4152599749419466759
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1775843012654860567
+                }
+            ],
+            "pathId": -7245358093303529871,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "カレンチャン、とーってもうれしい♪\r\nうふふっ♪",
+            "enText": "Everyone, I'm so glad you're here ♪ Hehe ♪",
+            "nextBlock": 19,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4736027084862777775
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2156270775638220200
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7209482716289171676
+                }
+            ],
+            "pathId": -2313556186508637841,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "オシャレなウマ娘",
+            "enName": "Stylish Horsegirl",
+            "jpText": "ウッソ……！？\r\nCurrenの周りだけ加工フィルターかかってない！？",
+            "enText": "You're kidding…! \nCurren only uses a filter on her background!?",
+            "nextBlock": 20,
+            "origClipLength": 130,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 9129996197623393732
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5492816979561242832
+                }
+            ],
+            "pathId": 9219684567892975173,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "オシャレなウマ娘",
+            "enName": "Stylish Horsegirl",
+            "jpText": "まぶしいっ、オーラまぶしいっ……！！\r\nウマスタまんまのマジCurrenだ……！",
+            "enText": "Her aura is so bright…!! She's definitely \nthe real deal, the real Umasta Curren…!",
+            "nextBlock": 21,
+            "origClipLength": 143,
+            "animData": [
+                {
+                    "origLen": 182,
+                    "pathId": 8199882544330043494
+                },
+                {
+                    "origLen": 223,
+                    "pathId": 861436172098174773
+                }
+            ],
+            "pathId": 8421475659732432924,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "ミーハーなウマ娘",
+            "enName": "Bandwagon Horsegirl",
+            "jpText": "あのっ、ツーショットお願いできませんか！？\r\nあたし、大大大大大ファンなんです～～っ！",
+            "enText": "Umm… W-Would it be okay if I took a \nselfie with you…!? I-I'm y-your biggest fan!",
+            "nextBlock": 22,
+            "origClipLength": 222,
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 1221593024122287117
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -1246490594676457453
+                }
+            ],
+            "pathId": 8933444440958882804,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "もっちろん！\r\nあなたは……そうだね、こんなポーズだと最高にカワイくなれるよ！",
+            "enText": "Of course it's okay! Hmm… \nI know, we'd look super cute posing like this!",
+            "nextBlock": 23,
+            "origClipLength": 220,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -9121102041494450408
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -9128925686529475540
+                }
+            ],
+            "pathId": -1297621531463225358,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "ミーハーなウマ娘",
+            "enName": "Bandwagon Horsegirl",
+            "jpText": "えっ、マジか、奇跡の1枚来た……。\r\nわああ、神対応ありがとうございます……！！",
+            "enText": "Woah, this is like a once in a lifetime shot… \nGod, thank you for this blessing…!!",
+            "nextBlock": 24,
+            "origClipLength": 289,
+            "animData": [
+                {
+                    "origLen": 318,
+                    "pathId": -7980544651693129701
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 36862510947313368
+                }
+            ],
+            "pathId": 2397277027349738186,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "みんなが喜んでくれるのが、カレンの幸せだよ♪\r\nアップするなら、『#カレンチャン』でタグ付けよろしくね！",
+            "enText": "Just getting to see everyone happy makes me super happy ♪ But \ndon't forget, if you're gonna upload it add #CurrenChan, okay?",
+            "nextBlock": 25,
+            "origClipLength": 224,
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -8404729175579378877
+                }
+            ],
+            "pathId": -7092606836361693660,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "他のみんなも、じゃんじゃん撮ってくださいな☆\r\nカレンを知らない子にも、拡散お願いしまーす♪",
+            "enText": "Everyone, feel free to take as many pictures as you'd like ☆ And \nmake sure to send them to anyone that doesn't know who I am ♪",
+            "nextBlock": 26,
+            "origClipLength": 224,
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 7907876112022628300
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3892273454050729206
+                }
+            ],
+            "pathId": 2134247805419649974,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "ファンたち",
+            "enName": "Fans",
+            "jpText": "はーいっ♪",
+            "enText": "Okay ♪",
+            "nextBlock": 27,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4454157536641787946
+                }
+            ],
+            "pathId": -8833754427839211198,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "圧倒的統率力……呆気にとられてその光景を眺めていると――\r\nはたと、彼女と目が合った。",
+            "enText": "Such incredible leadership… I couldn't help \nbut stare… and that's when our eyes met.",
+            "nextBlock": 28,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 1060282174764770051
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1739583887878016860
+                }
+            ],
+            "pathId": 5783258138095612175,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "あっ――あなたは……！！",
+            "enText": "Wait… You're…!!",
+            "nextBlock": 29,
+            "origClipLength": 77,
+            "choices": [
+                {
+                    "jpText": "……ん、俺？",
+                    "enText": "Who, me…?",
+                    "nextBlock": 29
+                },
+                {
+                    "jpText": "……ん、私？",
+                    "enText": "Who, me…?",
+                    "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6565407211090476582
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1413004741001094933
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -8331284362484126384
+                }
+            ],
+            "pathId": 6707322105509649330,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "そう、そこの優しそうなあなたっ！",
+            "enText": "You're that super nice person!",
+            "nextBlock": 30,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -3378839257129359390
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3918980113627677204
+                }
+            ],
+            "pathId": 544933952605005028,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "あなたは……カレンの運命の人っ！",
+            "enText": "And my… soulmate!",
+            "nextBlock": 31,
+            "origClipLength": 104,
+            "choices": [
+                {
+                    "jpText": "えっ！？",
+                    "enText": "Wha―",
+                    "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -4605513460697019305
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7064632874667820216
+                }
+            ],
+            "pathId": 6331804061481917049,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "この学園のトレーナーさん、だよね？\r\nカレンは……きっと、あなたを探していたの！",
+            "enText": "You're a trainer at this academy, aren't you? \nI've been… looking everywhere for you!",
+            "nextBlock": 32,
+            "origClipLength": 208,
+            "choices": [
+                {
+                    "jpText": "えっ……えっ？",
+                    "enText": "Wai- What!?",
+                    "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 2964756037776177369
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -7464369956419268328
+                }
+            ],
+            "pathId": 2506256351388287764,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "カレン決めた、決めちゃった！\r\n今日からあなたが……カレンのトレーナーさんねっ♪",
+            "enText": "I've decided! From now on… \nyou're gonna be my trainer ♪",
+            "nextBlock": 33,
+            "origClipLength": 197,
+            "choices": [
+                {
+                    "jpText": "えーーーーーーーっ！！",
+                    "enText": "Whaaaaaaa…!?",
+                    "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -6720326901625854665
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -4204931607664749880
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1104219516804092252
+                }
+            ],
+            "pathId": 3981867879338246870,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "ダメ……かなぁ？　カレンのお願い、\r\n聞いてほしいんだけど～……うるうる～……。",
+            "enText": "Is that a no…? And here I thought \nyou'd at least hear me out… <i>*whimpers*<\\i>…",
+            "nextBlock": 34,
+            "origClipLength": 278,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1404888634205231513
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 874815539777116525
+                },
+                {
+                    "origLen": 220,
+                    "pathId": -1640781324336120730
+                }
+            ],
+            "pathId": 504192364949024124,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "突然向けられた“カワイイ”オーラに呑まれそうになり――\r\n我に返った。トレーナー契約は、勢いで結ぶものではない。",
+            "enText": "I was nearly engulfed by her cute aura… But I managed to grab \nhold of my senses. Signing on as someone's trainer is not \nsomething to be taken lightly.",
+            "nextBlock": 35,
+            "origClipLength": 118,
+            "choices": [
+                {
+                    "jpText": "ちょ、ちょっとこっちへ……！",
+                    "enText": "C-Could you come here for a second?",
+                    "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -7334449409296864620
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -8307117594909560446
+                }
+            ],
+            "pathId": 6486819047842720026,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "はーいっ♪",
+            "enText": "Of course ♪",
+            "nextBlock": 36,
+            "origClipLength": 60,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -601105043581149604
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 5028513786317328214
+                }
+            ],
+            "pathId": 4583116268970863479,
+            "blockIdx": 35
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "校門から少し離れ、改めてウマ娘にとってのトレーナーの意義や\r\nぱっと見で選ぶべきじゃないということを話した。",
+            "enText": "We went a short distance from the gates as I told \nher about the importance of a trainer  and to \nnot make such a decision solely on a whim.",
+            "nextBlock": 37,
+            "origClipLength": 115,
+            "choices": [
+                {
+                    "jpText": "君もここで叶えたい夢があるんだろ？",
+                    "enText": "You have your own dreams, right?",
+                    "nextBlock": 37
+                },
+                {
+                    "jpText": "貴方もここで叶えたい夢があるんでしょ？",
+                    "enText": "You have your own dreams, right?",
+                    "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": 8551480730779480393
+                }
+            ],
+            "pathId": 1185560700815864963,
+            "blockIdx": 36
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……夢、ねぇ。",
+            "enText": "Dreams… huh?",
+            "nextBlock": 38,
+            "origClipLength": 65,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 7282646040009632030
+                }
+            ],
+            "pathId": 2144565690971019776,
+            "blockIdx": 37
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "うんっ、もちろんあるよ♪\r\nだってカレンがこの学園に来たのは～……。",
+            "enText": "Well of course I do ♪ \nBut the real reason I came to this academy is…",
+            "nextBlock": 39,
+            "origClipLength": 165,
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 5812785857891787963
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 1381500673338653263
+                }
+            ],
+            "pathId": -6596320971435840873,
+            "blockIdx": 38
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "みんなから“カワイイ”って褒められたいからっ♪\r\nトレセン学園に入ったら、もーっと注目されるかなーって！",
+            "enText": "To get more people to call me cute ♪ \nYou see, I figured that if I attended \nTracen Academy I'd get much more attention!",
+            "nextBlock": 40,
+            "origClipLength": 239,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 5908419836660036184
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -5640974201960260892
+                }
+            ],
+            "pathId": 6706972938358661230,
+            "blockIdx": 39
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "頭をハンマーで殴られたような衝撃を受ける。\r\nそんな理由で……！？",
+            "enText": "Her words struck me like a hammer to the head. \nIs that really the reason she came here…!?",
+            "nextBlock": 41,
+            "origClipLength": 88,
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": -5821845042766128340
+                }
+            ],
+            "pathId": 968470013083216283,
+            "blockIdx": 40
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "とにかくね～？\r\nカレンが今より輝くためには、あなたじゃなきゃダメなのっ！",
+            "enText": "Anyway… in order for me to shine brighter \nthan ever, I can't have anyone but you!",
+            "nextBlock": 42,
+            "origClipLength": 176,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 9106518248378410418
+                }
+            ],
+            "pathId": -6688011212423895495,
+            "blockIdx": 41
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "だから、お願い……お兄ちゃんっ！！\r\nカレンのトレーナーになって♪",
+            "enText": "I'm begging you… Onee-chan!! \nPlease be my trainer ♪",
+            "nextBlock": 43,
+            "origClipLength": 159,
+            "choices": [
+                {
+                    "jpText": "お、お兄ちゃん！？",
+                    "enText": "Onee-chan!?",
+                    "nextBlock": 44
+                },
+                {
+                    "jpText": "お、お姉ちゃん！？",
+                    "enText": "Onee-chan!?",
+                    "nextBlock": 44
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -6468166159557569026
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3238578149123323737
+                }
+            ],
+            "pathId": 6629543605481856968,
+            "blockIdx": 42
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "だから、お願い……お姉ちゃんっ！！\r\nカレンのトレーナーになって♪",
+            "enText": "I'm begging you… Onee-chan!! \nPlease be my trainer ♪",
+            "nextBlock": 44,
+            "origClipLength": 159,
+            "choices": [
+                {
+                    "jpText": "お、お兄ちゃん！？",
+                    "enText": "Onee-chan!?",
+                    "nextBlock": 44
+                },
+                {
+                    "jpText": "お、お姉ちゃん！？",
+                    "enText": "Onee-chan!?",
+                    "nextBlock": 44
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -9192584998337701709
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -5298454291380037725
+                }
+            ],
+            "pathId": -3022154894881956080,
+            "blockIdx": 43
+        },
+        {
+            "jpName": "オシャレなウマ娘",
+            "enName": "Stylish Horsegirl",
+            "jpText": "……あの人、もしかして断るつもりかな？\r\nあのCurrenが、あんなにお願いしてるのに……。",
+            "enText": "Is that person really gonna say no to \nTHE Curren even though she's begging them…?",
+            "nextBlock": 45,
+            "origClipLength": 211,
+            "animData": [
+                {
+                    "origLen": 196,
+                    "pathId": 7785228081570913771
+                }
+            ],
+            "pathId": 3358823017143746930,
+            "blockIdx": 44
+        },
+        {
+            "jpName": "ミーハーなウマ娘",
+            "enName": "Bandwagon Horsegirl",
+            "jpText": "まだフリーなら、ちょっと見てあげてもいいのにねぇ。",
+            "enText": "I mean, if they're not training anyone \nthey could at least hear her out, ya know?",
+            "nextBlock": 46,
+            "origClipLength": 139,
+            "animData": [
+                {
+                    "origLen": 191,
+                    "pathId": -5773422407186395822
+                }
+            ],
+            "pathId": 104078559021738823,
+            "blockIdx": 45
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "ファンの子たちの視線が突き刺さる……。\r\nこれ以上断る理由も見つからず、考えあぐねながら話すうち――",
+            "enText": "Her fans' piercing stares made \nme hesitate, and when I did…",
+            "nextBlock": 47,
+            "origClipLength": 110,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 5488420346056245093
+                }
+            ],
+            "pathId": -6067148330206608826,
+            "blockIdx": 46
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "――それじゃあ、今日からカレンのトレーナーさんってことで！\r\n決まり～っ♪",
+            "enText": "So from now on you're my trainer! \nI'm glad that's finally settled ♪",
+            "nextBlock": 48,
+            "origClipLength": 160,
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -5759212072685857315
+                }
+            ],
+            "pathId": -1135509880361901452,
+            "blockIdx": 47
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "気がつくとトレーナー契約を結んでいた……！\r\nなんという鮮やかな手際、やはり彼女は只者ではなさそうだ……。",
+            "enText": "Before I knew it, I was signing on as her trainer…! \nWhat a brilliantly executed plan… \nShe's definitely not your average person.",
+            "nextBlock": 49,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 163,
+                    "pathId": -1926787998376281249
+                }
+            ],
+            "pathId": 7396943043951108894,
+            "blockIdx": 48
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "やったぁ♪　これでカレンとずーっといっしょだね！\r\nよろしくね、お兄ちゃん♪",
+            "enText": "Yay♪ So from now on we're gonna spend every day together!  I'm \nlooking forward to this, Onee-chan♪",
+            "nextBlock": 50,
+            "origClipLength": 186,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 5832165499419056774
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 4169099326123400412
+                }
+            ],
+            "pathId": -6932579373600954708,
+            "blockIdx": 49
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "やったぁ♪　これでカレンとずーっといっしょだね！\r\nよろしくね、お姉ちゃん♪",
+            "enText": "Yay♪ So from now on we're gonna spend every day together!  I'm \nlooking forward to this, Onee-chan♪",
+            "nextBlock": 51,
+            "origClipLength": 186,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -6043141709900201604
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -7732729289792378354
+                }
+            ],
+            "pathId": 2349349477796628222,
+            "blockIdx": 50
+        },
+        {
+            "jpName": "ファンたち",
+            "enName": "Fans",
+            "jpText": "Curren、おめでと～～っ！！",
+            "enText": "Curren, congratulations!!",
+            "nextBlock": 52,
+            "origClipLength": 84,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 628140393218888966
+                }
+            ],
+            "pathId": -6625160030129116299,
+            "blockIdx": 51
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "ちょっとした拍手が起きたが……周囲から聞こえてくる声は\r\n必ずしも歓迎ムード一色ではない。",
+            "enText": "There was a round of applause… \nBut mixed in with it were voices of displeasure.",
+            "nextBlock": 53,
+            "origClipLength": 103,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7617035837723059681
+                }
+            ],
+            "pathId": 7102326891373687667,
+            "blockIdx": 52
+        },
+        {
+            "jpName": "真面目なウマ娘",
+            "enName": "Serious Horsegirl",
+            "jpText": "……あの騒ぎ、なんだかね。",
+            "enText": "What's all the fuss about…?",
+            "nextBlock": 54,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -4715837070428258237
+                }
+            ],
+            "pathId": 3126499252210141034,
+            "blockIdx": 53
+        },
+        {
+            "jpName": "レース好きなウマ娘",
+            "enName": "Race-loving Horsegirl",
+            "jpText": "ウマスタグラマーとか……。\r\nあたしら真剣にレースやってるのにね。",
+            "enText": "Umastagrammer and what not… Students here \nare meant to be serious about racing, you know?",
+            "nextBlock": 55,
+            "origClipLength": 148,
+            "animData": [
+                {
+                    "origLen": 202,
+                    "pathId": -2089005406065258865
+                }
+            ],
+            "pathId": 864475696838077705,
+            "blockIdx": 54
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "目立つということは、批判も招きやすい。\r\nこの学園で批判を跳ね返せるのは、レース結果だけだ。",
+            "enText": "I guess standing out really does invite more criticism. \nAnd here, the best way to respond \nis to let your racing do the talking.",
+            "nextBlock": 56,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -7012762622075453224
+                }
+            ],
+            "pathId": 6868052067298654398,
+            "blockIdx": 55
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……お兄ちゃん、もしかしてカレンが心配？",
+            "enText": "Onee-chan… Could it be? \nAre you worried about me?",
+            "nextBlock": 57,
+            "origClipLength": 96,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 8360634950717425113
+                }
+            ],
+            "pathId": -6685120826989342419,
+            "blockIdx": 56
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……お姉ちゃん、もしかしてカレンが心配？",
+            "enText": "Onee-chan… Could it be? \nAre you worried about me?",
+            "nextBlock": 58,
+            "origClipLength": 96,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5020786857102475553
+                }
+            ],
+            "pathId": 4354357692485600064,
+            "blockIdx": 57
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "うふっ、大丈夫だよ。だってカレン――\r\nとーっても、“カワイイ”から♪",
+            "enText": "Hehe, don't worry. \nBecause you see… I'm super cute♪",
+            "nextBlock": 59,
+            "origClipLength": 217,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": -1607469463499922118
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2882792819520633412
+                }
+            ],
+            "pathId": -7944522309146557830,
+            "blockIdx": 58
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "――そして迎えた翌日の体力テスト。好奇に満ちた視線の中、\r\nカレンチャンはその実力をまざまざと見せつけた。",
+            "enText": "The following day was a fitness exam. Curious onlookers watched \nas Curren Chan showed exactly what she's made of.",
+            "nextBlock": 60,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 251,
+                    "pathId": 6995095212508381481
+                }
+            ],
+            "pathId": -2210699224770759184,
+            "blockIdx": 59
+        },
+        {
+            "jpName": "教官",
+            "enName": "Instructor",
+            "jpText": "ダート1200m！\r\nた、タイムは――！",
+            "enText": "Th-This time on a 1200 meter dirt track…!?",
+            "nextBlock": 61,
+            "origClipLength": 138,
+            "pathId": -215546928495431986,
+            "blockIdx": 60
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "周囲でざわめきが起こる。新人ウマ娘としては破格のタイムだ……！\r\nどうやら彼女は、天性のスプリンターらしい。",
+            "enText": "The onlookers began muttering amongst themselves. \nHer time was absolutely unthinkable for a rookie! \nShe seems like a natural-born sprinter.",
+            "nextBlock": 62,
+            "origClipLength": 115,
+            "pathId": -8164385299043775468,
+            "blockIdx": 61
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "お兄ちゃーんっ！　ねえねえ、カレンどうだった？\r\nすーっごく、“カワイ”かったでしょ～♪",
+            "enText": "Onee-chan! Hey, how did I do? \nI bet I looked super cute out there ♪",
+            "nextBlock": 63,
+            "origClipLength": 221,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3134043851565982125
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 442677217501664025
+                }
+            ],
+            "pathId": 1762526032812281372,
+            "blockIdx": 62
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "お姉ちゃーんっ！　ねえねえ、カレンどうだった？\r\nすーっごく、“カワイ”かったでしょ～♪",
+            "enText": "Onee-chan! Hey, how did I do? \nI bet I looked super cute out there ♪",
+            "nextBlock": 64,
+            "origClipLength": 205,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 8353142067706813322
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -3021363738053574152
+                }
+            ],
+            "pathId": 4315925195808389780,
+            "blockIdx": 63
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "カレンチャン……彼女はいったい何を考え、望んでいるのだろうか。\r\nひとまずウマスタグラムをフォローしたのだった……。",
+            "enText": "Curren Chan, what exactly is your aim? \nWell, for now I guess I'll follow her on Umastagram…",
+            "nextBlock": -1,
+            "origClipLength": 120,
+            "animData": [
+                {
+                    "origLen": 217,
+                    "pathId": -3723091385095656962
+                }
+            ],
+            "pathId": -7192500796558744193,
+            "blockIdx": 64
+        }
+    ],
+    "modified": 1659728516
+}

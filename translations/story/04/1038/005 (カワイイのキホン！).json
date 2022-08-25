@@ -1,0 +1,763 @@
+{
+    "version": 5,
+    "bundle": "TSWNNTLNBLATKRTXWWXV2SEK3E5UQUYI",
+    "type": "story",
+    "storyId": "041038005",
+    "title": "カワイイのキホン！",
+    "text": [
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "『#今からトレーニング　#あつーい\r\n#カレンの日焼け止めは赤ちゃん用　#がんばります♪』",
+            "enText": "#GoingToTrain #SoHot \n#CurrenUsesBabySuncreen #I'mGonnaDoMyBest♪",
+            "nextBlock": 2,
+            "origClipLength": 241,
+            "animData": [
+                {
+                    "origLen": 289,
+                    "pathId": -5031584983913627058
+                }
+            ],
+            "pathId": 6011598685672964059,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "さてっ。\r\nお兄ちゃん、もう待ってるかなぁ――",
+            "enText": "Now then. Onee-chan's probably waiting for me.",
+            "nextBlock": 3,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -2293907237713433295
+                }
+            ],
+            "pathId": 7386361631514546995,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "さてっ。\r\nお姉ちゃん、もう待ってるかなぁ――",
+            "enText": "Now then. Onee-chan's probably waiting for me.",
+            "nextBlock": 4,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 4176410056270509930
+                }
+            ],
+            "pathId": 268441253426298265,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "上級生のウマ娘A",
+            "enName": "",
+            "jpText": "あらぁ～。ここにいたのね、カレンさん？",
+            "enText": "Ara. So this is where you were, Curren-san.",
+            "nextBlock": 5,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2352543042484882614
+                }
+            ],
+            "pathId": -8691133497920565783,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "上級生のウマ娘B",
+            "enName": "",
+            "jpText": "ちょっとよろしいかしら。\r\n“お話”が――あるのだけれど。",
+            "enText": "Is now a good time? \nWhy don't we have a little \"chat\" with one another?",
+            "nextBlock": 6,
+            "origClipLength": 233,
+            "animData": [
+                {
+                    "origLen": 270,
+                    "pathId": -3895642929354071113
+                }
+            ],
+            "pathId": -8335437615508905013,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……。",
+            "enText": "……",
+            "nextBlock": 7,
+            "origClipLength": 42,
+            "animData": [
+                {
+                    "origLen": 270,
+                    "pathId": 1997385489599279778
+                }
+            ],
+            "pathId": -6179079017192954105,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……トレーニングの時間になっても、カレンチャンが姿を見せない。\r\nウマスタグラムも、1時間前で更新が止まっている。",
+            "enText": "It's already past when we usually meet up for training \nand Curren Chan still isn't here.  She also hasn't \nupdated her Umastagram in over an hour.",
+            "nextBlock": 8,
+            "origClipLength": 119,
+            "animData": [
+                {
+                    "origLen": 270,
+                    "pathId": -3156449476204190564
+                }
+            ],
+            "pathId": -7505257871915172970,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "カレンのクラスメイト",
+            "enName": "",
+            "jpText": "――え、カレンさんまだトレーニングに来てないんですか？\r\nどうしよう、もしかしてさっきの……。",
+            "enText": "Eh? Curren-san didn't show up for training? \nWait, don't tell me… did those girls from earlier…",
+            "nextBlock": 9,
+            "origClipLength": 211,
+            "choices": [
+                {
+                    "jpText": "何かあったのか？",
+                    "enText": "Did something happen?",
+                    "nextBlock": 9
+                },
+                {
+                    "jpText": "何かあったの？",
+                    "enText": "Did something happen?",
+                    "nextBlock": 9
+                }
+            ],
+            "pathId": -293457763157797444,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "カレンのクラスメイト",
+            "enName": "",
+            "jpText": "……実は彼女、少し前に上級生から呼び出されてて。\r\nしかもそれが、ちょっと不穏な感じで……。",
+            "enText": "Well you see, a little while ago some upper class \nstudents were talking to her.  Something seemed \noff about the whole situation though…",
+            "nextBlock": 10,
+            "origClipLength": 242,
+            "choices": [
+                {
+                    "jpText": "え！？",
+                    "enText": "Eh!?",
+                    "nextBlock": 10
+                }
+            ],
+            "pathId": -5076975676922264298,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "カレンのクラスメイト",
+            "enName": "",
+            "jpText": "心配でついていこうか声かけたんですけど、大丈夫の一点張りで。\r\nそれ以上は言えない雰囲気だったんで見送ったんですけど――",
+            "enText": "I was worried something might happen to her so I offered to come \nalong, but she said everything would be fine. I felt like I \nshouldn't press the matter so I let her go without another word…",
+            "nextBlock": 11,
+            "origClipLength": 267,
+            "choices": [
+                {
+                    "jpText": "ありがとう！！",
+                    "enText": "Thanks for letting me know!",
+                    "nextBlock": 11
+                }
+            ],
+            "pathId": 9104446930117482141,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "カレンのクラスメイト",
+            "enName": "",
+            "jpText": "あっ、トレーナーさん！？\r\nたぶんカレンさんは校舎裏かと……！　お願いします！",
+            "enText": "Trainer-san!? Curren-san is probably behind the main school \nbuilding…! So please, go help her!",
+            "nextBlock": 12,
+            "origClipLength": 164,
+            "pathId": -8302442243862016372,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "校舎裏に慌てて駆けつけると、カレンチャンが上級生数人に\r\n取り囲まれていた……！",
+            "enText": "I rushed out, heading to where Curren Chan might be. \nI found her behind the main school building, \nsurrounded by multiple upper class students…!",
+            "nextBlock": 13,
+            "origClipLength": 97,
+            "choices": [
+                {
+                    "jpText": "カレン！！",
+                    "enText": "Curren!!",
+                    "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 228,
+                    "pathId": 6876124492773330009
+                }
+            ],
+            "pathId": 3920081729103976335,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "あれっ、お兄ちゃん！\r\nどうしてここに？",
+            "enText": "Ah, Onee-chan! What are you doing here?",
+            "nextBlock": 14,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 5296793396996631968
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -619399557560794057
+                }
+            ],
+            "pathId": 1988751976431007766,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "あれっ、お姉ちゃん！\r\nどうしてここに？",
+            "enText": "Ah, Onee-chan! What are you doing here?",
+            "nextBlock": 15,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -4595000788240786785
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 1544905009035109134
+                }
+            ],
+            "pathId": -8233736688581479379,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "あ！　もしかしてもうトレーニング始まってる！？\r\nいやんっ、ごめんなさーいっ。",
+            "enText": "Ah! Don't tell me, has training already started!? \nAhh, I'm so sorry!",
+            "nextBlock": 16,
+            "origClipLength": 168,
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -7486479513479046444
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 680131105687615536
+                }
+            ],
+            "pathId": -162767436362460294,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "許してくれる～……？\r\nうるうる。",
+            "enText": "Will you ever forgive me…?",
+            "nextBlock": 17,
+            "origClipLength": 93,
+            "choices": [
+                {
+                    "jpText": "それはいいんだけど……",
+                    "enText": "That's not the reason I'm here…",
+                    "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1503812463390932563
+                }
+            ],
+            "pathId": -6162526945584471973,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "上級生のウマ娘たち",
+            "enName": "Senior Horsegirls",
+            "jpText": "……。",
+            "enText": "……",
+            "nextBlock": 18,
+            "origClipLength": 48,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -1881964958724017074
+                }
+            ],
+            "pathId": -7038142106710350568,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "あ、先輩たちのこと？\r\nもう“お話”は終わったから大丈夫だよっ。",
+            "enText": "Ah, did you come here because of my Senpais? \nDon't worry, our \"chat\" is already over.",
+            "nextBlock": 19,
+            "origClipLength": 159,
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -4880961645049421167
+                }
+            ],
+            "pathId": -4173248463188895879,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "ねっ？\r\nせ～んぱいっ♪",
+            "enText": "Isn't that right? Senpai ♪",
+            "nextBlock": 20,
+            "origClipLength": 56,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -2820861005461472459
+                }
+            ],
+            "pathId": -9193372296816511961,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "上級生のウマ娘たち",
+            "enName": "Senior Horsegirls",
+            "jpText": "カワイイカレンチャン！",
+            "enText": "Cute Curren Chan!",
+            "nextBlock": 21,
+            "origClipLength": 59,
+            "choices": [
+                {
+                    "jpText": "！？",
+                    "enText": "!?",
+                    "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 4656731171945014602
+                }
+            ],
+            "pathId": -5023868959630147348,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "えへへ、先輩たちと仲良くなれて、カレンとってもうれしいっ！\r\nこれからもカレンのこと、応援してくださいね☆",
+            "enText": "Ehehe, I'm so glad I was able to bond with my Senpais! \nPlease continue to support me from here on out ☆",
+            "nextBlock": 22,
+            "origClipLength": 265,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3892437248268806678
+                }
+            ],
+            "pathId": -6254686468058754002,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "上級生のウマ娘たち",
+            "enName": "Senior Horsegirls",
+            "jpText": "カワイイカレンチャン！！",
+            "enText": "Cute Curren Chan!",
+            "nextBlock": 23,
+            "origClipLength": 60,
+            "choices": [
+                {
+                    "jpText": "！？！？",
+                    "enText": "!?!?!?",
+                    "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 5018585715111624657
+                }
+            ],
+            "pathId": 3004573866869198930,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "うんっ、いいお返事でーす♪\r\nウマスタのフォロー、忘れないようにっ☆",
+            "enText": "Yup, that's the perfect response♪ \nAnd don't forget to follow me on Umastagram ☆",
+            "nextBlock": 24,
+            "origClipLength": 148,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -2911048087233487937
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -7261904322696696065
+                }
+            ],
+            "pathId": 2363896062667979450,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "それじゃあ、また～♪",
+            "enText": "Anyway, see you all later ♪",
+            "nextBlock": 25,
+            "origClipLength": 52,
+            "animData": [
+                {
+                    "origLen": 38,
+                    "pathId": 8829026655641317267
+                }
+            ],
+            "pathId": 4021424857302873728,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "カレン、すぐ着替えてくるね。\r\nお兄ちゃんは、先にコースへ行ってて！",
+            "enText": "I'm gonna go get changed. \nOnee-chan, I'll meet you at the racecourse!",
+            "nextBlock": 26,
+            "origClipLength": 144,
+            "choices": [
+                {
+                    "jpText": "その前に、さっきのこと……",
+                    "enText": "So what was that all about…?",
+                    "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 2288287771057661891
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1665395388320472752
+                }
+            ],
+            "pathId": 1083885952778261470,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "カレン、すぐ着替えてくるね。\r\nお姉ちゃんは、先にコースへ行ってて！",
+            "enText": "I'm gonna go get changed. \nOnee-chan, I'll meet you at the racecourse!",
+            "nextBlock": 27,
+            "origClipLength": 144,
+            "choices": [
+                {
+                    "jpText": "その前に、さっきのこと……",
+                    "enText": "So what was that all about…?",
+                    "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -8501469607919419327
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3937695050554605228
+                }
+            ],
+            "pathId": -4550643752575370925,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……え～？\r\n別に、大したことじゃないよ？",
+            "enText": "Ehh…? It was nothing much, you know?",
+            "nextBlock": 28,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5042801387217313005
+                }
+            ],
+            "pathId": -1275092336783562898,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "先輩たち、カレンのことあんまり好きじゃなさそうだったの。\r\nだから……“お話”して、カレンのカワイさを知ってもらっただけ♪",
+            "enText": "At first they didn't seem to like me very much. \nSo, after our little \"chat\" they \nunderstood just how cute I really am ♪",
+            "nextBlock": 29,
+            "origClipLength": 280,
+            "choices": [
+                {
+                    "jpText": "お話……？",
+                    "enText": "Little \"chat?\"",
+                    "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -5326775809003716004
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2559860867946735137
+                }
+            ],
+            "pathId": 9054475352791208627,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "うん。ちょっとした誤解があったみたいだから、かる～くね？\r\nそしたら先輩たち、すぐにカレンのこと好きになってくれたよ♪",
+            "enText": "Yup. It seemed like there was a little bit of a misunderstanding \nbetween us, but I took care of it! They immediately fell in love \nwith me while we were chatting ♪",
+            "nextBlock": 30,
+            "origClipLength": 285,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5674317953598654317
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -2348378358696380663
+                }
+            ],
+            "pathId": 5735925151374130656,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "何やらえげつない響きを持つ“お話”の内容も気になるが、\r\nそれよりも……。",
+            "enText": "I'm kinda interested in their secret \"chat\" but \nthere's something more important that I wanted to say…",
+            "nextBlock": 31,
+            "origClipLength": 93,
+            "choices": [
+                {
+                    "jpText": "1人で行かないでほしかった",
+                    "enText": "I wish you didn't go alone.",
+                    "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 5910912677881520767
+                }
+            ],
+            "pathId": 3926566268362430347,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "今回は事なきを得たものの、大きなトラブルに繋がっていた\r\n可能性もある。なので、可能なら周りを頼ってほしかったと伝えた。",
+            "enText": "While you may have been able to solve the problem this time, what \nif you hadn't? That is always a possibility, so I explained to \nher that she didn't have to do everything by herself:  that she \ncould rely on those around her.",
+            "nextBlock": 32,
+            "origClipLength": 123,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -1098138727488526907
+                }
+            ],
+            "pathId": -7908374729559336450,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "うふふ、大丈夫だよー？　だってカレン、こういうの慣れてるの。\r\nカワイイ子って、やっぱり目立っちゃうみたい。",
+            "enText": "Hehehe, you don't have to worry. \nI'm used to these kinds of things you know? \nAfter all, cute girls always stand out.",
+            "nextBlock": 33,
+            "origClipLength": 260,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 2433174349866274146
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7731416643962788944
+                }
+            ],
+            "pathId": -5678176503382609724,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "それに下手に周りの子を巻き込むのもかわいそうでしょ？\r\nカレンだけなら、まぁるく収められるわけだし♪",
+            "enText": "Plus I wouldn't want to get those other girls involved \nin these kinds of things.  It'll be easier to deal \nwith them if it's just me as well.",
+            "nextBlock": 34,
+            "origClipLength": 244,
+            "choices": [
+                {
+                    "jpText": "けど……",
+                    "enText": "But…",
+                    "nextBlock": 34
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 8325552927083025428
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 2443771594725527956
+                }
+            ],
+            "pathId": 6827815637041163552,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……お兄ちゃん。事は起こって、カレンはそれをカワイく解決した。\r\n心配してくれたのはうれしいけど、今は違う言葉がほしいな？",
+            "enText": "Onee-chan… When these kinds of things happen I solve \nthem in a cute manner. I'm happy that you were so \nworried about me, but during times like these there's \nonly one thing for you to say, right?",
+            "nextBlock": 35,
+            "origClipLength": 320,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": 5102056906857056467
+                }
+            ],
+            "pathId": -6813701700620089410,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……お姉ちゃん。事は起こって、カレンはそれをカワイく解決した。\r\n心配してくれたのはうれしいけど、今は違う言葉がほしいな？",
+            "enText": "Onee-chan… When these kinds of things happen I solve \nthem in a cute manner. I'm happy that you were so \nworried about me, but during times like these there's \nonly one thing for you to say, right?",
+            "nextBlock": 36,
+            "origClipLength": 320,
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": 4037062060810456446
+                }
+            ],
+            "pathId": 7948016177530517917,
+            "blockIdx": 35
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "そう、カレンが聞きたいのはいっこだけ。\r\nお兄ちゃんなら、わかるよね……？",
+            "enText": "Yup, there's only one thing that I want to hear from you. \n \nYou know what it is, don't you, Onee-chan…?",
+            "nextBlock": 37,
+            "origClipLength": 189,
+            "choices": [
+                {
+                    "jpText": "……カレンは、宇宙一カワイイよ",
+                    "enText": "Curren, you're the cutest girl in the universe…",
+                    "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -3262856456776396192
+                }
+            ],
+            "pathId": 2954276964997115219,
+            "blockIdx": 36
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "そう、カレンが聞きたいのはいっこだけ。\r\nお姉ちゃんなら、わかるよね……？",
+            "enText": "Yup, there's only one thing that I want to hear from you. \n \nYou know what it is, don't you, Onee-chan…?",
+            "nextBlock": 38,
+            "origClipLength": 189,
+            "choices": [
+                {
+                    "jpText": "……カレンは、宇宙一カワイイよ",
+                    "enText": "Curren, you're the cutest girl in the universe…",
+                    "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 6145992163796993760
+                }
+            ],
+            "pathId": -5148798478327181182,
+            "blockIdx": 37
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……。",
+            "enText": "……",
+            "nextBlock": 39,
+            "origClipLength": 30,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3222389589539309828
+                }
+            ],
+            "pathId": -398711470288722671,
+            "blockIdx": 38
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "でしょーっ♪\r\nそれじゃ、この話はおしまいね？　カレン、準備してくる～！",
+            "enText": "I am, aren't I? ♪ Now then, we're done with \nthis conversation, right? I'm going to go get ready!",
+            "nextBlock": 40,
+            "origClipLength": 202,
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -6561197326526290859
+                }
+            ],
+            "pathId": 3189052596094718903,
+            "blockIdx": 39
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……またカレンチャンのペースに振り回されてしまった。\r\nいつか彼女を本当の意味で理解できる日がくるのだろうか……？",
+            "enText": "I was pulled around by Curren Chan once again… \nWill there ever come a day that I truly understand her…?",
+            "nextBlock": -1,
+            "origClipLength": 119,
+            "pathId": -189034616484451921,
+            "blockIdx": 40
+        }
+    ],
+    "modified": 1659728932
+}

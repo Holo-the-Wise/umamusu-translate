@@ -1,0 +1,628 @@
+{
+    "version": 5,
+    "bundle": "NWGZNLWZ7Q7WULKUKZQ5KYRTKVDS5JVT",
+    "type": "story",
+    "storyId": "041033005",
+    "title": "瞬く夜に揺れ",
+    "text": [
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "はぁっ、はぁ……はぁ……。",
+            "enText": "Haah, haa… haaah…",
+            "nextBlock": 2,
+            "origClipLength": 95,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3779768169711323109
+                }
+            ],
+            "pathId": 686625944619049569,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "……っ、まだ……もっと、もっと走らなきゃ。",
+            "enText": "I'm not finished yet. \nI… I need to run more.",
+            "nextBlock": 3,
+            "origClipLength": 185,
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": -2738663326028373231
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5569023384091747243
+                }
+            ],
+            "pathId": 1657209162294287486,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "担当トレーナーになって、しばらくが経った。",
+            "enText": "It has been a few days since I became her trainer.",
+            "nextBlock": 4,
+            "origClipLength": 72,
+            "choices": [
+                {
+                    "jpText": "（まだ踏み込みが少し甘い、それから……）",
+                    "enText": "<i>I'm still a little soft with her, so…<\\i>",
+                    "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -6830557140036670821
+                }
+            ],
+            "pathId": 4163214537290523389,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "アドマイヤベガの走りを、細かにメモしていく。\r\nこれをもとにレースへの対策を練っていくのだが――",
+            "enText": "I'm currently taking notes on how Admire Vega runs. \nI will use this as a basis for her training going forward, but…",
+            "nextBlock": 5,
+            "origClipLength": 107,
+            "pathId": 889476095790417272,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "果たして、聞き入れてくれるだろうか。",
+            "enText": "Will she actually listen to me?",
+            "nextBlock": 6,
+            "origClipLength": 68,
+            "pathId": -1689126162296833464,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "軽いアドバイスは聞き入れてくれるが、\r\n二人三脚でやっていくようなトレーニングとなると……。",
+            "enText": "She does listen to light advice, but when it \ncomes to training that requires us to work together…",
+            "nextBlock": 7,
+            "origClipLength": 105,
+            "pathId": 3985192408831280239,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "私は――独りでいい。独りが、いい。",
+            "enText": "I'm… fine being alone. \nI… prefer being alone.",
+            "nextBlock": 8,
+            "origClipLength": 191,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5308014953939541409
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -5391910166469332608
+                }
+            ],
+            "pathId": -7559392532796190207,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "……どちらにせよ、トレーナーがいないと\r\nトゥインクル・シリーズには出られないから。",
+            "enText": "If I don't have a trainer, I won't be able to enter the \nTwinkle Series. So either way, I'd need one eventually…",
+            "nextBlock": 9,
+            "origClipLength": 158,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3261772638510927032
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -6581402672904210180
+                }
+            ],
+            "pathId": -3865814138389134,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……互いに協力していくことが前提のトレーニングを\r\n聞き入れてもらうのは、難しいかもしれない。",
+            "enText": "It's hard to get her to do training \nthat requires her to cooperate with me…",
+            "nextBlock": 10,
+            "origClipLength": 106,
+            "choices": [
+                {
+                    "jpText": "（でも――）",
+                    "enText": "<i>But…<\\i>",
+                    "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 6692812653778886986
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -8520764502604388355
+                }
+            ],
+            "pathId": -3923769980423661190,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "自分は彼女のトレーナーだ。\r\n以前、勝手に支えると断言したのだから、伝えるだけでも――",
+            "enText": "I am her trainer. I told her that I would support \nher no matter what, so I have to prove that to―",
+            "nextBlock": 11,
+            "origClipLength": 101,
+            "animData": [
+                {
+                    "origLen": 163,
+                    "pathId": 1892064134490662022
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -428548435710424834
+                }
+            ],
+            "pathId": -7357056509801161581,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "……外、走ってくる。",
+            "enText": "I'm going to run somewhere else…",
+            "nextBlock": 12,
+            "origClipLength": 79,
+            "choices": [
+                {
+                    "jpText": "え？",
+                    "enText": "Eh?",
+                    "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": -830622111986350127
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -8958622320562910225
+                }
+            ],
+            "pathId": 7405078478501063109,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "待つ必要……ないから。",
+            "enText": "Don't… wait for me.",
+            "nextBlock": 13,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 1021331091913387600
+                }
+            ],
+            "pathId": -5383041592979285807,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "声をかける間もなく走り去る。追いかけたいところだが、\r\n彼女の背中は、あっという間に遠ざかってしまった。",
+            "enText": "She ran off before I had a chance to react. \nI wanted to chase after her, but she was just too quick.",
+            "nextBlock": 14,
+            "origClipLength": 112,
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 1123708104181411985
+                }
+            ],
+            "pathId": -2453482444902312708,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "はっ、はっ、はぁ……！",
+            "enText": "Hahh, hah, haa…!",
+            "nextBlock": 15,
+            "origClipLength": 94,
+            "pathId": 7383189246860218322,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "（……大丈夫、今日はまだまだ走れる。\r\nこのまま、遠くへ――星を近くに感じられる場所まで、独りで）",
+            "enText": "<i>It's fine, I can still run much more today. If I continue at this \npace, one day I'll reach those far away stars, all by myself.<\\i>",
+            "nextBlock": 16,
+            "origClipLength": 384,
+            "pathId": -4195470096770720432,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "…………。",
+            "enText": "………",
+            "nextBlock": 17,
+            "origClipLength": 68,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -1170684220554055616
+                }
+            ],
+            "pathId": 5752929884838978963,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "……――私は、独りで……。",
+            "enText": "All… by myself.",
+            "nextBlock": 18,
+            "origClipLength": 163,
+            "animData": [
+                {
+                    "origLen": 310,
+                    "pathId": -7225530898693260840
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1049481355290543796
+                },
+                {
+                    "origLen": 303,
+                    "pathId": -1667269729387664706
+                }
+            ],
+            "pathId": 314345796346333206,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "メモした内容をまとめていたら、\r\nいつの間にか夜になってしまった。",
+            "enText": "I was so busy organizing my notes \nthat I didn't realize it was already nighttime.",
+            "nextBlock": 19,
+            "origClipLength": 88,
+            "choices": [
+                {
+                    "jpText": "でも、もう少しだけ……",
+                    "enText": "But there's only a little left to do…",
+                    "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 310,
+                    "pathId": -1685140712990890774
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -3974345268750044960
+                },
+                {
+                    "origLen": 303,
+                    "pathId": -20657867580302501
+                }
+            ],
+            "pathId": 6152236858641432111,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "明日、しっかりと伝えられるように。\r\nアドマイヤベガの力となれるように。",
+            "enText": "I hope I can get my feelings across to Admire Vega \ntomorrow. And I hope that I can be useful to her too.",
+            "nextBlock": 20,
+            "origClipLength": 91,
+            "pathId": 7631641355730494567,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "また、こんなところで……。",
+            "enText": "You're here again.",
+            "nextBlock": 21,
+            "origClipLength": 83,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4581572028280269278
+                }
+            ],
+            "pathId": -6912386729324558582,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "……。トレーナーさん、風邪ひくから。\r\n寝るならちゃんと帰って……。",
+            "enText": "Trainer-san, you'll catch a cold if you \ncontinue to sleep here. You should go home.",
+            "nextBlock": 22,
+            "origClipLength": 197,
+            "animData": [
+                {
+                    "origLen": 178,
+                    "pathId": 4532412346230291544
+                }
+            ],
+            "pathId": -2739720621234726216,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "……はぁ。パソコンもつけっぱなしだし、メモも――",
+            "enText": "And you left your computer on, and these notes…",
+            "nextBlock": 23,
+            "origClipLength": 173,
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": -2881945798286551491
+                },
+                {
+                    "origLen": 143,
+                    "pathId": 630747140386516726
+                }
+            ],
+            "pathId": 3967132846712833272,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "『星が好きらしい』『トレーニング時間の変更？』\r\n『どこか星の見える場所？』『たづなさんに相談』",
+            "enText": "\"She seems to like stars.\" \"Should I change \nthe training start time?\" \"Where's a good area \nto stargaze?\" \"I'll ask Tazuna about it.\"",
+            "nextBlock": 24,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5038451037093103841
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -3222139297348115677
+                }
+            ],
+            "pathId": -7454428243715086289,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "『あの子のために――』",
+            "enText": "\"She's doing this for 'her'?\"",
+            "nextBlock": 25,
+            "origClipLength": 59,
+            "pathId": 2703433128815147712,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "『もっと、なにができるだろう』……？",
+            "enText": "\"What else can I do for her?\"",
+            "nextBlock": 26,
+            "origClipLength": 124,
+            "animData": [
+                {
+                    "origLen": 263,
+                    "pathId": -2111367103225615561
+                },
+                {
+                    "origLen": 192,
+                    "pathId": 4299559378019309228
+                }
+            ],
+            "pathId": -7216931362682861256,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "どうして……だって、私は……独りでいいって……何度も……。",
+            "enText": "Why is she… doing all of this? I told her so \nmany times… that I prefer doing things alone.",
+            "nextBlock": 27,
+            "origClipLength": 307,
+            "animData": [
+                {
+                    "origLen": 195,
+                    "pathId": -9047359099623630714
+                },
+                {
+                    "origLen": 205,
+                    "pathId": -9044649807425797448
+                }
+            ],
+            "pathId": -1888289390402738314,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "（――星を見ようと思った。\r\n遠くまで走り続けようと思った）",
+            "enText": "<i>I thought that all I wanted was to see the stars. \n<\\i> <i>That all I wanted was to continue running, \nuntil I reached that faraway place.<\\i>",
+            "nextBlock": 28,
+            "origClipLength": 190,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 6429546917101020038
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 3490902509224712962
+                }
+            ],
+            "pathId": -7623981766879548692,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "（……でも）",
+            "enText": "<i>But…<\\i>",
+            "nextBlock": 29,
+            "origClipLength": 66,
+            "pathId": -7839201058974507378,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "？？？",
+            "enName": "???",
+            "jpText": "きっと、あの人は待ってる。",
+            "enText": "She's definitely waiting for you.",
+            "nextBlock": 30,
+            "origClipLength": 61,
+            "pathId": 7356523635421888428,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "……違う。そんなんじゃない。\r\n戻ってきたのは、ただ……門限があったから。それだけ、で。",
+            "enText": "No… that isn't true. The only reason I \ncame back was because of my curfew. That's it.",
+            "nextBlock": 31,
+            "origClipLength": 455,
+            "animData": [
+                {
+                    "origLen": 155,
+                    "pathId": -7937787908193215000
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8786540776064712655
+                }
+            ],
+            "pathId": 1648229624111185393,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "…………。",
+            "enText": "………",
+            "nextBlock": 32,
+            "origClipLength": 72,
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": -219620495070196795
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5410148115792044414
+                }
+            ],
+            "pathId": -5242669162133672702,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "……あなたの努力は、\r\n本当なら私が受け取るものじゃない。",
+            "enText": "All the effort you're putting into me… \nI don't deserve it.",
+            "nextBlock": 33,
+            "origClipLength": 221,
+            "animData": [
+                {
+                    "origLen": 218,
+                    "pathId": 6226081490748418679
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2434678286051839152
+                }
+            ],
+            "pathId": 3282774434400716127,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "（……そうだ。相応しいウマ娘は、別にいる。\r\n眩しい星のように、輝くはずだった――）",
+            "enText": "<i>There's a different Uma Musume that deserved all of this. \nThe one who was meant to shine like a dazzling star.<\\i>",
+            "nextBlock": 34,
+            "origClipLength": 397,
+            "animData": [
+                {
+                    "origLen": 334,
+                    "pathId": -2381712976699247258
+                },
+                {
+                    "origLen": 170,
+                    "pathId": -7848639961666545531
+                }
+            ],
+            "pathId": -7058041943223201486,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "アドマイヤベガ",
+            "enName": "Admire Vega",
+            "jpText": "私の……大切な、妹……。",
+            "enText": "My… beloved sister.",
+            "nextBlock": 35,
+            "origClipLength": 182,
+            "animData": [
+                {
+                    "origLen": 321,
+                    "pathId": 2409988067740144555
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -8958034181554140810
+                }
+            ],
+            "pathId": 2687081974288455991,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "誰かが、ソファに置いてあったブランケットを、かけてくれた。\r\n心地よさに目を開けられず、夢の中から遠ざかる足音を聞いていた。",
+            "enText": "It seems like someone covered me in a blanket. I didn't open my \neyes, but in my sleep I could hear the faint sounds of footsteps.",
+            "nextBlock": -1,
+            "origClipLength": 125,
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": -6508196510395258236
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 6812019637587568037
+                }
+            ],
+            "pathId": -2994408813043402594,
+            "blockIdx": 35
+        }
+    ],
+    "modified": 1659671518
+}

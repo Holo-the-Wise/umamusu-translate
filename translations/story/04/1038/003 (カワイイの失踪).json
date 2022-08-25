@@ -1,0 +1,1033 @@
+{
+    "version": 5,
+    "bundle": "MT6UXSNJQOAUBQX5NPLOC22KZMPGWOUK",
+    "type": "story",
+    "storyId": "041038003",
+    "title": "カワイイの失踪",
+    "text": [
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "それはプリティーグランプリ予選の翌朝のことだった。\r\n仕事用の資料を整理していると――",
+            "enText": "The following morning as I sorted through paperwork…",
+            "nextBlock": 2,
+            "origClipLength": 101,
+            "pathId": -5693038186332827848,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "駿川たづな",
+            "enName": "Hayakawa Tazuna",
+            "jpText": "トレーナーさん、大変です！！\r\nカレンチャンさんが失踪しました……。",
+            "enText": "Trainer-san, horrible news!! \nWe can't find Curren Chan-san anywhere…",
+            "nextBlock": 3,
+            "origClipLength": 173,
+            "choices": [
+                {
+                    "jpText": "えーーーーーっ！！",
+                    "enText": "Eh…!!",
+                    "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": -6148247761970837182
+                }
+            ],
+            "pathId": -4158212917912620116,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "カレンチャン、失踪――\r\nその噂は、またたく間に学園中を駆け巡った。",
+            "enText": "Rumours of Curren Chan's dissappearance \nquickly spread amongst the students.",
+            "nextBlock": 4,
+            "origClipLength": 89,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 8603872521025894721
+                }
+            ],
+            "pathId": 816804492799332506,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "彼女は自室に手紙を残していったらしい。\r\nたづなさんから受け取った後、そっと開く。",
+            "enText": "Apparently she left a note in her room. \nAfter receiving it from Tazuna-san I opened it.",
+            "nextBlock": 5,
+            "origClipLength": 98,
+            "pathId": -1902149672295244208,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "『カレンは修行の旅に出ます。\r\n伝説のウマ仙人に会いにいかなきゃ』",
+            "enText": "<i>I'm going to go on a trip to better myself. I plan on \nmeeting with the legendary Uma Sage in the mountains.<\\i>",
+            "nextBlock": 6,
+            "origClipLength": 152,
+            "pathId": -4979605648728761456,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "『お兄ちゃん、カレンの勝手を許して。\r\nだってカレンの夢は――』",
+            "enText": "<i>Onee-chan, please don't be mad at me. \nYou see, my dream is to one day…<\\i>",
+            "nextBlock": 7,
+            "origClipLength": 156,
+            "pathId": 2468380137419187174,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "『お姉ちゃん、カレンの勝手を許して。\r\nだってカレンの夢は――』",
+            "enText": "<i>Onee-chan, please don't be mad at me. \nYou see, my dream is to one day…<\\i>",
+            "nextBlock": 8,
+            "origClipLength": 156,
+            "pathId": 5867985036499710493,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "手紙はそこで途切れていた……。",
+            "enText": "The letter ended abruptly.",
+            "nextBlock": 9,
+            "origClipLength": 64,
+            "pathId": -4031884634344622335,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "『伝説のウマ仙人』というワードにクラクラしながら、何か\r\nヒントが残されていないかとCurrenのウマスタグラムを開く。",
+            "enText": "The phrase \"legendary Uma Sage\" confused me, so I decided \nto see if there were any hints left behind on her Umastagram.",
+            "nextBlock": 10,
+            "origClipLength": 123,
+            "pathId": -8889045730315507747,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "離島へ向かう港で寂しげに微笑むCurrenの自撮りが\r\n数秒前にアップされたばかりだった。そこには――",
+            "enText": "There was a picture that was posted a few seconds ago. \nIt was a selfie of Curren looking dejected while on \nthe way to a remote island. Underneath the picture was…",
+            "nextBlock": 11,
+            "origClipLength": 111,
+            "pathId": -3692673354134080629,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "＠Curren",
+            "enName": "",
+            "jpText": "『#花びらや　#浮かれ流れて　#滝へ落つ』",
+            "enText": "<i>#AStoneInACreek #UnableToEscapeTheTorrent \n#ItCan'tHelpButSink<\\i>",
+            "nextBlock": 12,
+            "origClipLength": 128,
+            "pathId": 2220460794012136146,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……謎の俳句が添えられていた。季語は『滝』。\r\n自らの凋落を古風に詠みつつ、ハッシュタグを盛り込んだ意欲作だ。",
+            "enText": "A mysterious haiku… It seemed to center around \nthe word \"creek\". An intricately written haiku \nabout one's downfall hidden amongst hashtags.",
+            "nextBlock": 13,
+            "origClipLength": 116,
+            "pathId": 5868624000438116495,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "じゃなくて――カレンチャンを追いかけなくては！\r\n一応、“アレ”も持っていこう……！",
+            "enText": "What am I doing! I have to go after her! \nI should bring \"that\" with me too…!",
+            "nextBlock": 14,
+            "origClipLength": 99,
+            "pathId": 3089400189771669929,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "離島は、人の住んでいる気配すらしない場所だった。\r\nこんなところにカレンチャンが……？",
+            "enText": "There was no sign of human life on the \nremote island. Is Curren Chan really here…?",
+            "nextBlock": 15,
+            "origClipLength": 101,
+            "pathId": -4277864701865519255,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "カレンチャンを探して山奥へ分け入っていくと、\r\n激しい滝の音が聞こえてきた。と、同時に――",
+            "enText": "As I wandered deeper into the mountains in search of \nCurren Chan I heard the sound of a raging waterfall. Then…",
+            "nextBlock": 16,
+            "origClipLength": 103,
+            "pathId": -1305880784561111635,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "すーごーくーつーらーいーけーどー\r\nこーれーもーしゅーぎょーおー……。",
+            "enText": "Pain… Only… Helps… To… Further… One's… Progress… On… The… Path… \nTowards… Self… Betterment…",
+            "nextBlock": 17,
+            "origClipLength": 276,
+            "pathId": 1780345783075045037,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "カレンチャンがお経的なものを唱えながら滝に打たれている……！？\r\n慌てて助けだして、山奥から脱出した……！",
+            "enText": "Curren Chan was reciting something that sounded like it came out \nof Buddhist scriptures while sitting under a waterfall…!? \nRegardless, I rushed over and pulled her out…!",
+            "nextBlock": 18,
+            "origClipLength": 114,
+            "pathId": 4781984917522444653,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "えへへ、見つかっちゃった……。\r\nお兄ちゃんは、迷子のカレンを見つける名人なのね。",
+            "enText": "Ehehe, you found me… I guess you really are the \nbest at finding me when I'm lost, huh, Onee-chan?",
+            "nextBlock": 19,
+            "origClipLength": 214,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 1795455707214862577
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -8423808251223850754
+                }
+            ],
+            "pathId": 6869490830900228969,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "えへへ、見つかっちゃった……。\r\nお姉ちゃんは、迷子のカレンを見つける名人なのね。",
+            "enText": "Ehehe, you found me… I guess you really are the \nbest at finding me when I'm lost, huh, Onee-chan?",
+            "nextBlock": 20,
+            "origClipLength": 212,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 8950951986740237633
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6044347018272320999
+                }
+            ],
+            "pathId": 935250098331627543,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "自分が追ってこられるように、わざとウマスタに\r\nヒントを残していたのはわかっていた。",
+            "enText": "I knew she left clues on her Umasta \npost so that I'd be able to find her.",
+            "nextBlock": 21,
+            "origClipLength": 99,
+            "choices": [
+                {
+                    "jpText": "話をしよう",
+                    "enText": "We need to talk.",
+                    "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 5596714923190678839
+                }
+            ],
+            "pathId": -4416231229925460006,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "うん……いいよ。どんなお話がいい？",
+            "enText": "Okay, that's fine. But what about?",
+            "nextBlock": 22,
+            "origClipLength": 103,
+            "choices": [
+                {
+                    "jpText": "君のことを、もっと知りたいんだ",
+                    "enText": "I want to learn more about you.",
+                    "nextBlock": 22
+                },
+                {
+                    "jpText": "貴方のことを、もっと知りたいの",
+                    "enText": "I want to learn more about you.",
+                    "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 424908219451400798
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 2368275385006164509
+                }
+            ],
+            "pathId": 519825988162124484,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "なぜならまだ、大事なことを何も教えてもらっていない。\r\nそう言うと、カレンチャンは微笑んだ。",
+            "enText": "The reason I wanted to learn more about \nher is because as of now I know nothing. \nAfter I said this Curren Chan smiled at me.",
+            "nextBlock": 23,
+            "origClipLength": 105,
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 8925644825804102229
+                }
+            ],
+            "pathId": -6625507017352993237,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……お兄ちゃんは、\r\n“カワイイ”の中の私も知りたいんだね。",
+            "enText": "Onee-chan, you really want to know the \nreason behind my \"cuteness,\" don't you?",
+            "nextBlock": 24,
+            "origClipLength": 136,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 8574855970965006281
+                }
+            ],
+            "pathId": 2897196296938213756,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……お姉ちゃんは、\r\n“カワイイ”の中の私も知りたいんだね。",
+            "enText": "Onee-chan, you really want to know the \nreason behind my \"cuteness,\" don't you?",
+            "nextBlock": 25,
+            "origClipLength": 136,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4274464787784040067
+                }
+            ],
+            "pathId": -7888468755183229558,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "ねえ、教えて？\r\n私の全部を……知る覚悟はあるの？",
+            "enText": "But tell me, are you really prepared \nto learn everything about me?",
+            "nextBlock": 26,
+            "origClipLength": 175,
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": 6117953491643186065
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8093672556607534029
+                }
+            ],
+            "pathId": -6012036519775217641,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "あまりにも真っすぐ見つめられ、少したじろぐ。\r\nだが……ここで見つめ返せなければ、トレーナー失格だ。",
+            "enText": "She looked at me in such a serious manner that I flinched. \nHowever, if I can't even meet her gaze, I'm not qualified to be \nher trainer. However, if I can't even meet her gaze, I'm not \nqualified to be her trainer.",
+            "nextBlock": 27,
+            "origClipLength": 110,
+            "choices": [
+                {
+                    "jpText": "ああ！",
+                    "enText": "Of course!",
+                    "nextBlock": 27
+                },
+                {
+                    "jpText": "うん！",
+                    "enText": "Of course!",
+                    "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 161,
+                    "pathId": -4538154082936624337
+                }
+            ],
+            "pathId": 2419110544223634216,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "ふふっ……しょうがないなぁ。\r\nじゃあ、カレンが生まれた時の話から教えてあげるね。",
+            "enText": "Hehe… well, guess I've got no choice. \nThen we'll begin from when I was born.",
+            "nextBlock": 28,
+            "origClipLength": 214,
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -7885685437322801932
+                }
+            ],
+            "pathId": 4393606195990918184,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "ほら、赤ちゃんって反射でたくさん笑うじゃない？\r\n生まれたばかりのカレンもね、いっぱい笑う子だったの。",
+            "enText": "Babies laugh a lot, right? When I \nwas a newborn I would laugh a lot too.",
+            "nextBlock": 29,
+            "origClipLength": 230,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -5522003169266886898
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6062696298154720952
+                }
+            ],
+            "pathId": 6622907469469157909,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "そしたらね、家族もたくさん笑ってくれたんだ。\r\n“カワイイ”ねって、すごく幸せそうにしてた。",
+            "enText": "And because of that my family would laugh along with me. They \nwould always call me \"cute\" and looked so happy all of the time.",
+            "nextBlock": 30,
+            "origClipLength": 216,
+            "animData": [
+                {
+                    "origLen": 188,
+                    "pathId": -1246910349517633973
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 5759219518098649224
+                }
+            ],
+            "pathId": 2007437444173445801,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "カレンのカワイさはみんなを幸せにするねって、\r\n兄さん……実の兄が言ってくれたの。",
+            "enText": "Onii-san… I mean my real older brother would always tell me \nthat my cuteness had the power to make those around me happy.",
+            "nextBlock": 31,
+            "origClipLength": 227,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6683723251926026284
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5488326152751811669
+                }
+            ],
+            "pathId": -4589097378143918096,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "だから、カレンは“カワイイ”存在であろうと決めたんだ。\r\nそれが……3歳くらいの時かな？",
+            "enText": "So I decided that I'd live my life being \"cute\". \nI decided that when I was… around 3 years old maybe?",
+            "nextBlock": 32,
+            "origClipLength": 244,
+            "choices": [
+                {
+                    "jpText": "さ、3歳で！？",
+                    "enText": "3 years old!?",
+                    "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 194,
+                    "pathId": 4122800384351003060
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 7284532036807910096
+                }
+            ],
+            "pathId": -1357322018304811038,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "そのために、“カワイイ”についてあらゆる研究をしつくしたの。\r\nそうしたらね、私に憧れてくれる子が出てきて――",
+            "enText": "So in order to become as \"cute\" as possible I \ndecided to do research on \"cuteness\". As a result \nof my research, I gained many admirers.",
+            "nextBlock": 33,
+            "origClipLength": 277,
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -7511065283497422813
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5241737718001839306
+                }
+            ],
+            "pathId": 1793101424356752614,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "カレンフォロワー",
+            "enName": "Curren's Follower",
+            "jpText": "あっ、あの……！\r\nウマスタグラマーのCurrenですよね！？",
+            "enText": "I… Um…! You're the Umastagrammer, \nCurren, aren't you!?",
+            "nextBlock": 34,
+            "origClipLength": 172,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -483160238449637418
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -950501096936900601
+                }
+            ],
+            "pathId": 2054889901858273442,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "カレンフォロワー",
+            "enName": "Curren's Follower",
+            "jpText": "あなたのおかげで、自分を変えようって……勇気が持てました。\r\nCurrenは、私の恩人です。",
+            "enText": "You gave me the courage to change myself… \nCurren, you saved me.",
+            "nextBlock": 35,
+            "origClipLength": 284,
+            "animData": [
+                {
+                    "origLen": 302,
+                    "pathId": 5685958108642605475
+                }
+            ],
+            "pathId": -7868978314371329027,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……うれしかったなぁ。カワイイカレンでいることで、\r\n家族以外のみんなも幸せにできるってわかったから。",
+            "enText": "What she said made me so happy… \nI was able to use my cuteness to \nmake people outside of my family happy too.",
+            "nextBlock": 36,
+            "origClipLength": 230,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 3723471556055952014
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7352414931490892933
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 923813975468233928
+                }
+            ],
+            "pathId": 741851251798899051,
+            "blockIdx": 35
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "私は褒められてうれしくて、\r\nみんなはカワイイカレンでうれしくなる。",
+            "enText": "I was happy to receive their praise, \nand they were happy because I was cute.",
+            "nextBlock": 37,
+            "origClipLength": 150,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -5016104763732913088
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6174090251568918844
+                }
+            ],
+            "pathId": 4629202012843449271,
+            "blockIdx": 36
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "この幸せなサイクルを、もっと広げていきたいって思ったの！",
+            "enText": "So I thought that I would continue \nto expand this cycle of happiness!",
+            "nextBlock": 38,
+            "origClipLength": 135,
+            "choices": [
+                {
+                    "jpText": "なるほど……",
+                    "enText": "I see…",
+                    "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 5578783320126127733
+                }
+            ],
+            "pathId": -8337368224454897945,
+            "blockIdx": 37
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "彼女の中で、“カワイイ”という価値観が\r\nこれほどまでの深い意味を持つとは。",
+            "enText": "I had no idea that the concept of \"cuteness\" \nhad such a deep meaning for her.",
+            "nextBlock": 39,
+            "origClipLength": 94,
+            "choices": [
+                {
+                    "jpText": "じゃあ、どうしてトレセン学園に？",
+                    "enText": "So why'd you come to this academy?",
+                    "nextBlock": 39
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 8148916152981669483
+                }
+            ],
+            "pathId": -5703232223001393958,
+            "blockIdx": 38
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "それは……。\r\nテレビで見たウマ娘たちが――誰よりも輝いてたから。",
+            "enText": "That's because… the Uma Musume from Tracen Academy \nthat I saw on TV shined brighter than anyone else.",
+            "nextBlock": 40,
+            "origClipLength": 197,
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 7865402182348151186
+                },
+                {
+                    "origLen": 165,
+                    "pathId": 1905855280316309940
+                }
+            ],
+            "pathId": -1382083958469094155,
+            "blockIdx": 39
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "いっぱい汗をかいて、髪の毛も風でぐちゃぐちゃで、\r\n表情だって全然笑顔じゃない。むしろちょっと怖いくらい……。",
+            "enText": "They were drenched in sweat, their hair ruined by the wind, \nand were always wearing a stoic, unsmiling expression. \nHonestly, it was a little bit frightening…",
+            "nextBlock": 41,
+            "origClipLength": 278,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -1938787319222623536
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -7804307660360230233
+                }
+            ],
+            "pathId": 1486573861984464288,
+            "blockIdx": 40
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "私の知ってる、私の極めたい、私の信じるカワイイとは……\r\n全然違う。でも、でもそんな彼女たちを見て――",
+            "enText": "The things I knew, the things I mastered, what \nI believed cuteness to be… They were the exact \nopposite. But, but when I saw those girls race…",
+            "nextBlock": 42,
+            "origClipLength": 363,
+            "pathId": 2598467569923295567,
+            "blockIdx": 41
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "私……“カワイイ”って思っちゃったの。\r\nだって、とってもキラキラしてたから……！",
+            "enText": "I thought… they were so \"cute\". \nThey shined so brightly!",
+            "nextBlock": 43,
+            "origClipLength": 204,
+            "pathId": 6817621433026083500,
+            "blockIdx": 42
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "トレセン学園に入って、レースで勝てば……彼女たちみたいに、\r\nううん！　カレンならそれ以上に輝ける。",
+            "enText": "If I join Tracen Academy and win races… I could shine just like… \nNo! I could shine <i>even<\\i> brighter than the girls I saw on TV.",
+            "nextBlock": 44,
+            "origClipLength": 292,
+            "pathId": -289632645074314286,
+            "blockIdx": 43
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "もっとたくさんのみんなに、カレンを知ってもらえる！\r\nそうして、世界中がカレンに夢中になればいいって思ったの！",
+            "enText": "More people would know about me! \nNot only that, the entire world would fall in love with me!",
+            "nextBlock": 45,
+            "origClipLength": 282,
+            "pathId": 5898721010974691578,
+            "blockIdx": 44
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……でも、グランプリの予選レースでは、\r\nみんなの期待を裏切っちゃった。",
+            "enText": "But… during the preliminary \nrace I betrayed everyone's faith in me…",
+            "nextBlock": 46,
+            "origClipLength": 188,
+            "animData": [
+                {
+                    "origLen": 247,
+                    "pathId": 6058086180133578866
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -7664987315615198469
+                }
+            ],
+            "pathId": -8908185077898019109,
+            "blockIdx": 45
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "カワイイってね、完璧じゃなきゃダメなの。\r\nみんなの夢を壊しちゃったら……それはカワイくない。",
+            "enText": "When you're cute you have to be perfect. \nIf you destroy everyone's dreams… \nyou're no longer cute.",
+            "nextBlock": 47,
+            "origClipLength": 277,
+            "animData": [
+                {
+                    "origLen": 261,
+                    "pathId": 1606750334664789066
+                },
+                {
+                    "origLen": 176,
+                    "pathId": -321448638768632921
+                }
+            ],
+            "pathId": 3150741964231780014,
+            "blockIdx": 46
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "準備を怠って蹄鉄が外れたなんて……\r\nぜんっぜん、カワイくないっ～～……！！",
+            "enText": "I can't believe that I prepared so poorly that my horseshoe ended \nup falling off. It wasn't cute at all!! It wasn't cute at all!!",
+            "nextBlock": 48,
+            "origClipLength": 227,
+            "choices": [
+                {
+                    "jpText": "カレン……",
+                    "enText": "Curren…",
+                    "nextBlock": 48
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 1132122322237281233
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 8916116698029356715
+                }
+            ],
+            "pathId": -3516093137113892014,
+            "blockIdx": 47
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "だから、こうして修行にきたの！\r\nダメなカレンのままじゃ、絶対にイヤだからっ！",
+            "enText": "That's why I came here to improve myself! \nI don't want to continue being this worthless Curren!",
+            "nextBlock": 49,
+            "origClipLength": 199,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -6548051341376861991
+                }
+            ],
+            "pathId": 7708758854492481328,
+            "blockIdx": 48
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "ようやく、わかった。\r\nこの子は理想の自分であるために戦う完璧主義者だ。",
+            "enText": "I finally figured her out. She's a perfectionist \nstruggling to keep up with her ideal self.",
+            "nextBlock": 50,
+            "origClipLength": 91,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -575503920774919103
+                }
+            ],
+            "pathId": -2370402193932893984,
+            "blockIdx": 49
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "カワイイは1日にして成らず。\r\n爪の先から髪の毛1本にまで、全てに彼女のカワイイは通っている。",
+            "enText": "Being cute is not something you can achieve in a single day. From \nthe tips of her nails to each individual hair on her head, her \neffort to be cute was ever-present.",
+            "nextBlock": 51,
+            "origClipLength": 106,
+            "pathId": 1197675638837384840,
+            "blockIdx": 50
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "レースだって、雰囲気であそこまで走れるものではない。\r\n彼女は見えないところで、死に物狂いの努力を重ねていたのだ。",
+            "enText": "Her amazing racing ability is no exception. \nThere is no way that she could have gotten this good without \nworking herself to death, even when no one was around.",
+            "nextBlock": 52,
+            "origClipLength": 119,
+            "pathId": -8558025000726063474,
+            "blockIdx": 51
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "全ては――“カワイイ”のために。",
+            "enText": "And all of this… for the sake of \"cuteness…\"",
+            "nextBlock": 53,
+            "origClipLength": 65,
+            "choices": [
+                {
+                    "jpText": "君は……とんでもない負けず嫌いなんだな",
+                    "enText": "You must really hate losing…",
+                    "nextBlock": 53
+                },
+                {
+                    "jpText": "貴方は……とんでもない負けず嫌いなんだね",
+                    "enText": "You must really hate losing…",
+                    "nextBlock": 53
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 8023187573605817264
+                }
+            ],
+            "pathId": -7385528509083492873,
+            "blockIdx": 52
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "えーっ？　それカワイイ～？\r\nあんまり褒められてる気がしないなぁ。",
+            "enText": "Eh? Is that supposed to be a compliment? \nI feel like you're not really praising me.",
+            "nextBlock": 54,
+            "origClipLength": 190,
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 4579843382445401237
+                }
+            ],
+            "pathId": 2467765888754385274,
+            "blockIdx": 53
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "でも負けず嫌いなのは当たり……かな。",
+            "enText": "But, I guess it's pretty obvious \nthat I do really hate it… huh?",
+            "nextBlock": 55,
+            "origClipLength": 130,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -176478072780816663
+                }
+            ],
+            "pathId": 3104614389718078102,
+            "blockIdx": 54
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "宇宙人のようだった彼女が、初めてひとりのウマ娘に見えた。\r\nと同時に、彼女の在り方、生き様を好ましく思えた。",
+            "enText": "This was the first time that I saw her not as some alien, but as \na true Uma Musume. And that's when I realized that I truly \nrespected her way of life.",
+            "nextBlock": 56,
+            "origClipLength": 115,
+            "animData": [
+                {
+                    "origLen": 183,
+                    "pathId": -765155876903460050
+                }
+            ],
+            "pathId": -2022044100095503357,
+            "blockIdx": 55
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "それなら……トレーナーとしてできることがある。\r\n彼女の望むステージに立たせてあげたい！",
+            "enText": "As her trainer, there are things I must do. \nI will help her reach the stage that she yearns for!",
+            "nextBlock": 57,
+            "origClipLength": 102,
+            "choices": [
+                {
+                    "jpText": "俺と一緒に修行しよう",
+                    "enText": "Let's train together",
+                    "nextBlock": 57
+                },
+                {
+                    "jpText": "私と一緒に修行しよう",
+                    "enText": "Let's train together",
+                    "nextBlock": 57
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 183,
+                    "pathId": 1964987674045645782
+                }
+            ],
+            "pathId": 3856967270060877556,
+            "blockIdx": 56
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "修行を重ねて、彼女の言うカワイさを取り戻す。そのために、\r\nカレンチャンが落としていった蹄鉄をそっと差し出した。",
+            "enText": "With more training she will definitely regain the cuteness that \nshe had lost. In order to do that I handed her back the horseshoe \nthat had come off. In order to do that I handed her back the \nhorseshoe that had come off.",
+            "nextBlock": 58,
+            "origClipLength": 118,
+            "choices": [
+                {
+                    "jpText": "探しておりました、お姫様",
+                    "enText": "I found this for you, Princess",
+                    "nextBlock": 58
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 2135219515747530045
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -7726072595792024182
+                }
+            ],
+            "pathId": 4595605855865212357,
+            "blockIdx": 57
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……えへへ。\r\nありがとう、お兄ちゃんっ。",
+            "enText": "Ehehe… Thank you, Onee-chan.",
+            "nextBlock": 59,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 5873595720811305527
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 5923611006999984147
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -2018796085423634774
+                }
+            ],
+            "pathId": -1322831253403144206,
+            "blockIdx": 58
+        },
+        {
+            "jpName": "カレンチャン",
+            "enName": "Curren Chan",
+            "jpText": "……えへへ。\r\nありがとう、お姉ちゃんっ。",
+            "enText": "Ehehe… Thank you, Onee-chan.",
+            "nextBlock": 60,
+            "origClipLength": 99,
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 7604883823846365920
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3870332185993982674
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7148673235419137515
+                }
+            ],
+            "pathId": -5126443371179003255,
+            "blockIdx": 59
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "こうして、ようやくカレンチャンのトレーナーになれた日。\r\n2人で修行する様子を、伝説のウマ仙人が微笑みながら見ていた。",
+            "enText": "This was the day where I truly became Curren Chan's trainer. And \nas we trained together the legendary Uma Sage smiled down upon us.",
+            "nextBlock": -1,
+            "origClipLength": 121,
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -6449043589574745946
+                }
+            ],
+            "pathId": 3043133383160441860,
+            "blockIdx": 60
+        }
+    ],
+    "modified": 1659728669
+}

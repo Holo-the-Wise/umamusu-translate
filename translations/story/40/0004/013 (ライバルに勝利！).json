@@ -1,0 +1,98 @@
+{
+    "version": 5,
+    "bundle": "VTYQ4PMJ2C6HAGUNVT3DCGSZ34SDM2L6",
+    "type": "story",
+    "storyId": "400004013",
+    "title": "ライバルに勝利！",
+    "text": [
+        {
+            "jpName": "秋川理事長",
+            "enName": "Chairwoman Akikawa",
+            "jpText": "喝采ッ！！",
+            "enText": "Cheers!",
+            "nextBlock": 2,
+            "origClipLength": 51,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -8886957818027714082
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4316106104580289613
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -211787637700446703
+                }
+            ],
+            "pathId": -2613947240444594110,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "秋川理事長",
+            "enName": "Chairwoman Akikawa",
+            "jpText": "先日の手に汗握るレース、\r\n拝見させてもらった！",
+            "enText": "I had the pleasure of watching your sweaty \nhands race the other day!",
+            "nextBlock": 3,
+            "origClipLength": 76,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 959315336440857260
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3719688359324764095
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -8949616725041932592
+                }
+            ],
+            "pathId": 7264937992090505307,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "秋川理事長",
+            "enName": "Chairwoman Akikawa",
+            "jpText": "ライバル同士の戦いに、大・勝利ッ！\r\n素晴らしい活躍だった！\nこれからもその調子で奮戦を期待ッ！",
+            "enText": "A great victory in a battle of rivals! Great \njob! Keep up the good work!",
+            "nextBlock": 4,
+            "origClipLength": 107,
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": 2633938709093098720
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 2491995297508501875
+                }
+            ],
+            "pathId": 5307656313686715658,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "<chrname>が強敵に勝利したことを\r\n大いにお褒めいただいた！\nより一層頑張ろうと気合いが入る……！",
+            "enText": "Big props to <chrname> for winning \nagainst a strong opponent! I'm fired \nup to work even harder ……!",
+            "nextBlock": -1,
+            "origClipLength": 114,
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -6794081864711718406
+                },
+                {
+                    "origLen": 196,
+                    "pathId": -8710494512084076308
+                }
+            ],
+            "pathId": 1561997830636462347,
+            "blockIdx": 4
+        }
+    ],
+    "modified": 1658674074
+}
