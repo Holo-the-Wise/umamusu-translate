@@ -102,12 +102,12 @@
         },
         {
             "jpText": "あこがれの地へ (勇気すこし借りて)",
-            "enText": "To the place that I long for \n(Borrowing my courage just a bit)",
+            "enText": "To the place that I long for \\n(Borrowing my courage just a bit)",
             "time": "58804"
         },
         {
             "jpText": "語り合ったMEMORY (二度と来ない今を)",
-            "enText": "Talking about a memory \n(The right now we won't see back again)",
+            "enText": "Talking about a memory \\n(The right now we won't see back again)",
             "time": "62954"
         },
         {
@@ -132,22 +132,22 @@
         },
         {
             "jpText": "キミと 走り競いゴール目指し 遥か響け届けMUSIC",
-            "enText": "With you I  Run to the finish line striving all the way \nIn the distance I already hear the music",
+            "enText": "With you I  Run to the finish line striving all the way \\nIn the distance I already hear the music",
             "time": "78154"
         },
         {
             "jpText": "ずっとずっとずっとずっと想い 夢がきっと叶うなら",
-            "enText": "Forever forever forever forever in my thoughts \nIf my dream will be within reach soon",
+            "enText": "Forever forever forever forever in my thoughts \\nIf my dream will be within reach soon",
             "time": "84824"
         },
         {
             "jpText": "あの日キミに感じた何かを信じて",
-            "enText": "I'll believe in what I felt that day \nThe special thing you held in you",
+            "enText": "I'll believe in what I felt that day \\nThe special thing you held in you",
             "time": "89564"
         },
         {
             "jpText": "春も夏も秋も冬も超え 願い焦がれ走れ",
-            "enText": "Crossing springtimes 'n summers 'n autumns 'n winters \nDarting towards the wish I call my dream",
+            "enText": "Crossing springtimes 'n summers 'n autumns 'n winters \\nDarting towards the wish I call my dream",
             "time": "94214"
         },
         {
@@ -166,5 +166,5 @@
             "time": "104900"
         }
     ],
-    "modified": 1661352082
+    "modified": 1661654346
 }

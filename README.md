@@ -1,11 +1,11 @@
-This project aims to translate *Uma Musume Pretty Derby* through (mainly) Unity asset edits.  
-The intent is to be an all-in-one toolset/patch but right now it is focused on any dialogues with a few extras.  
+This project is a toolset to translate *Uma Musume Pretty Derby* to English. Includes a patch function using these tools.  
+It accomplishes this by modifying the master.mdb file and Unity assets, aided additionally with dll hijacking through [TLG].
 
 Translation progress and credits can be checked in [tl-progress]. Guides can be found below.  
-For troubleshooting, please open an issue or ask in the [translation discord](https://discord.gg/HpMRFNvsMv).
+For troubleshooting, please open an issue or ask in the [Umamusume Translation Discord][].
 
-This is based on the DMM version of the game. If you can figure out how to run it on other versions, it should work with some edits, but no support is provided right now.  
-Please consider [supporting the project](https://ko-fi.com/noccyu).
+This is based on the DMM version of the game and *should* work on linux too.  
+Please consider [supporting the project](https://ko-fi.com/noccyu) and its contributors.
 
 # Features
 Translates (or *can* translate):
@@ -14,61 +14,87 @@ Translates (or *can* translate):
     - Race segments
     - Event prologues
 - Training stories
-- Home screen interactions
+- Home screen lines & interactions (own & lobby characters)
 - Lyrics
+- Most of the UI through [tlg].
+- Skills, names, missions, and other such "dynamic" texts. Same as the older *mdb patch*.
 - Planned: images
 
 Deepl/fairseq integration for automatic machine translation.  
-Provides text strings and related tools for UI translation using [tlg].
 
-Included translations: [tl-progress]  
-Toolset: [scripts](#script-info)
+Included translations & credits: [tl-progress]  
+Toolset info: [scripts](#script-info)
 
 # Disclaimer
 
-This tool collection only changes text to translate it and it is *my belief* this is harmless and unlikely to be an issue. [^1]  
+This toolset only changes text to translate it and it is *my belief* this is harmless and unlikely to be an issue. [^1]  
 **Nonetheless such edits are of course against cygames/Umamusu TOS so proceed at your own risk!**
 
-[^1]: cygames has a relatively good track record in leaving non-cheating, non-damaging tools and users alone in my experience. any possible crackdown is also likely to start with announcements and warnings before bans.
+[^1]: cygames has a relatively good track record in leaving non-cheating, non-damaging tools and users alone in my experience. Any possible crackdown is also likely to start with announcements and warnings before bans.
 
 # Install 
-Make sure you satisfied the *requirements* first, then follow the steps in *usage*.
+Make sure you satisfied the *requirements* below first to use the tools. If you don't want to patch, you can [continue here](#advanced-usage).  
+Otherwise, follow the further steps for each part of the patch you wish to apply, in suggested order.  
+Each of those parts is separate and can be used independently, though some effectiveness may be lost.
+
+[An alternative guide with images by CryDuringItAll](https://docs.google.com/document/d/1_Ze8oez90d3Ic1rJhbK4F3wWe7hAIB_j2vJFjmcHfkY)
 
 ## Requirements
 1. Install [Python](https://www.python.org/downloads/) 3.9+
-    - During install, check the `Add to PATH` option.
-1. Download this project
-1. Open the (extracted) folder and double click `install.bat`
-1. (Optional but recommended *for dialogue*) Download all game data [through the game menu](guide_batch_download.jpg)
-    - The patch will only edit files existing in your game data. You can simply rerun the import below for new content.
+    - *Either* install the py launcher (recommended) *or* select the "add to path" checkbox.
+    - If the latest version is very recent use the version *before* that. Otherwise dependencies might not have binaries and may require compiling.
+1. Clone or download a zip (green "code" button) of this project
+1. Open the (extracted) folder and double click `install.bat` (This downloads the needed python libs)
+    - If you choose to install MinGit, it will be used to update automatically where needed, and you can update manually by running `update.bat`.
+1. (Optional, for dialogue) Download all game data [through the game menu](guide_batch_download.jpg)
+    - The patch will only edit files existing in your game data. If you don't do this you can simply rerun the dialogue import below for new content.
 
-## Basic Usage
-1. **UI** (menus, buttons, ...): Open the game's *install folder* (where the `Umamusume.exe` is)
-    1. Download [tlg]'s latest [release](https://github.com/MinamiChiwa/Trainers-Legend-G/releases), extract **only the `version.dll`** and put that in the game's *install folder*
-    1. Copy the **contents** of this project's `localify` folder to the *install folder*
-        - If the game *won't start* and you double checked you did it correctly, try renaming the `version.dll` file to `uxtheme.dll` (*errors* mean the issue is elsewhere)
-        - ~~In rare cases when a story overlay pops up in the main menus, your UI may blur and get stuck that way. Temporarily remove the dll and restart the game to do the action. (may only affect uxtheme.dll naming?)~~ (fixed in TLG, I think)
-1. **Dialogue**: double click `run.bat` 
-1. **Skills and other variable text**: Run either of the `mdb import.bat` files
-    - The mdb file that is modified updates often, you will need to redo this step every time it does. Usually when there is an in-game update.
-    - Requires restarting the game after applying.
-    - For a web version (slightly outdated) see the [db-translate project] and follow its guide for now. It wil be moved to this project soon™
+## Config
+The first time you run any of the `.bat` files mentioned below, an `umatl.json` file will be created in the folder.  
+You can change a few settings there before continuing further if you like, simply run the .bat again.
 
-## Updating
-1. Download the project again and overwrite
-    - Any files you've added yourself through the deepl integration should stay intact, or at worst be overridden with the same (deepl) or better (manual translation) versions. If you've made your own edits to anything though, those would be lost! You could keep a backup of any edits at the moment you make them, or try picking up git or other version control software. Or best of all, please contribute them so everybody can enjoy them!
-1. Double click `run.bat` 
+## UI (menus, buttons, ...)
+This should be a one-time procedure. If your UI looks the wrong size afterwards, open the `config.json` you copied and play with the uiScale value (0.8-1.2 usually).
+1. Open the game's *install folder* (where the `Umamusume.exe` is)
+1. Copy the **contents** of this project's `localify` folder to the *install folder*
+1. Download [tlg]'s latest [release zip](https://github.com/MinamiChiwa/Trainers-Legend-G/releases), extract **only the `version.dll`** from it and put that in the game's *install folder*
+    - *0xc000012f* error when starting game: [Install vc++ X64](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) ([alterative link](https://github.com/abbodi1406/vcredist))
+    - If the game *won't start* or the *UI is not translated*, try renaming the `version.dll` file to `uxtheme.dll` (*errors* mean the issue is elsewhere and this will not help)
+1. It should look [like this](guide_localify.jpg).
 
-## Advanced Usage
-In general, check out the [scripts](#script-info).
+## Skills and other variable text
+Change `skill_data` to true in the config if you want to see [the skill's raw requirements and effects](guide_skilldata.png).  
+Run the `mdb import.bat` file.
+- The mdb file that this modifies updates regularly (with banners usually) and undoes changes, you will need to rerun this .bat.
+- Requires restarting the game after applying.
+- There is also [a web version](https://noccu.github.io/umamusume-db-translate/) for mobile or other usecases but it it not maintained well anymore.
+
+## Dialogue
+Change `skip_mtl` to `true` in the config if you'd like to skip importing Machine Translations.  
+Double click `run.bat` 
+- This can take a long time (few hours) because there are many files.
+- You can close this at any time and resume later, or play the game while this runs.
+- Changes apply without restart.
+
+# Updating
+1. Double click `update.bat` if you installed MinGit, else pull or download the project again and overwrite
+    - Any files you've added yourself through the deepl integration should stay intact, or at worst be overridden with the same (deepl) or better (manual translation) versions. If you've made your own edits to anything though, those would be lost! Please contribute them here so everybody can enjoy!
+1. Double click `run.bat` and/or `mdb*.bat` as required.
+    - `run.bat` also updates the UI-related files **after** you've followed the UI step above.
+
+# Advanced Usage
+In general, check out the [scripts](#script-info). You probably also want to `pip install -r src/devreq.txt`
 1. **Dialogue**
     - To install specific things, see [id-structure.md](id-structure.md) and use: `py src/import.py -O -g <group> -id <id>`
     - To add additional translations through deepl, or contribute your own, see [translating.md](translating.md)
-1. **UI**
+2. **UI**
     - To update yourself when the translations are jumbled, see [here](translating.md#updating)
-1. **Skills and other variable text**: See the [db-translate project]
+        - Should no longer be needed when using TLG.
+3. **Skills and other variable text**: Check the `-h` help for scripts under `src/mdb/`
 
 # Script info
+
+See [data-layout.md](data-layout.md) for an overview of the game's data files and how this repo maps translation files to them.
 
 All scripts are made to be run from the root dir, i.e: `py src/script.py -arg val`  
 Arguments can be given to all and it is recommended you do so, processing the smallest amount of files you're comfortable with at a time.  
@@ -97,16 +123,18 @@ For dev contributions, open a PR or Issue.
 
 # Thanks to
 
+[All the translators][tl-progress]  
 [UnityPy][]  
+[tlg]  
 [The original umamusume-db-translate](https://github.com/FabulousCupcake/umamusume-db-translate)  
 [umamusume-localify][]  
-[tlg]
-[Unofficial Umamusume Discord server](https://discord.gg/umamusume)  
-[All the translators][tl-progress]
+[Umamusume Translation Discord][]  
+[Unofficial Umamusume Discord](https://discord.gg/umamusume)  
 
 [UnityPy]: https://github.com/K0lb3/UnityPy
 [umamusume-localify]: https://github.com/GEEKiDoS/umamusume-localify
 [tlg]: https://github.com/MinamiChiwa/Trainers-Legend-G
 [db-translate project]: https://github.com/noccu/umamusume-db-translate
+[Umamusume Translation Discord]: https://discord.gg/HpMRFNvsMv
 
 [tl-progress]: tl-progress.md

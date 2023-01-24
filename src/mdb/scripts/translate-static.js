@@ -8,6 +8,7 @@ import fs from "fs"
 const FILES = {
         trainerReq: "translations/mdb/trainer-title-requirements.json",
         missions: "translations/mdb/missions.json",
+        storyMissions: "translations/mdb/story-event-missions.json",
         umaNames: "translations/mdb/uma-name.json",
         trTitles: "translations/mdb/trainer-title.json",
         races: "translations/mdb/race-name.json",
@@ -18,8 +19,16 @@ const FILES = {
         spUniqueNames: "translations/mdb/support-effect-unique-name.json",
         misc: "translations/mdb/miscellaneous.json",
         factors: "translations/mdb/factor-desc.json",
-        common: "translations/mdb/common.json"
+        common: "translations/mdb/common.json",
+        shoeSize: "translations/mdb/uma-profile-shoesize.json",
+        lessonEffects: "translations/mdb/lesson-talent-bonus.json",
+        items: "translations/mdb/item-desc.json"
     }
+const UNCOMMON_FILES = [
+    "shoeSize",
+    "lessonEffects",
+    "items"
+]
 const PFILES = {};
 const FAN_AMOUNT = {
     "1000万": "10 million",
@@ -48,6 +57,7 @@ const CM_RESULT = {
 
 function readFiles() {
     for (let file of Object.keys(FILES)) {
+        if (!UPDATE_UNCOMMON && UNCOMMON_FILES.includes(file)) continue
         PFILES[file] = JSON.parse(fs.readFileSync(FILES[file], "utf8"))
     }
     console.log("Files read.");
@@ -68,6 +78,13 @@ function translate() {
         translateSpecific("friend", jpText, PFILES.missions)
         translateSpecific("genLimMiss", jpText, PFILES.missions)
         translateSpecific("skillMis", jpText, PFILES.missions)
+        translateSpecific("affec", jpText, PFILES.missions)
+    }
+    // story-event-missions.json
+    for (let [jpText, enText] of Object.entries(PFILES.storyMissions.text)) {
+        if (enText) continue; //skip translated entries
+        translateSpecific("g1-3", jpText, PFILES.storyMissions)
+        translateSpecific("genLimMiss", jpText, PFILES.storyMissions)
     }
     for (let [jpText, enText] of Object.entries(PFILES.trainerReq.text)) {
         if (enText) {
@@ -150,6 +167,67 @@ function translate() {
     for (let [jpText, enText] of Object.entries(PFILES.races.text)) {
         if (enText) continue; //skip translated entries
         translateSpecific("legvs", jpText, PFILES.races)
+    }
+
+    //! uncommons down here
+    if (!UPDATE_UNCOMMON) return
+
+    //*shoe-size.json
+    for (let [jpText, enText] of Object.entries(PFILES.shoeSize.text)) {
+        if (enText) continue;
+        let out = ""
+        let m = jpText.matchAll(/([左右]|左右ともに)：?([\d.]+(?:cm|㎝))(?:\\n|([（\(].+)$)?/mg)
+        for (let p of m) {
+            let [,side, val, rest] = p
+            if (side == "左") {
+                out += "Left: " + val
+            }
+            else if (side == "右"){
+                out += " \\nRight: " + val
+            }
+            else {
+                out += "Both: " + val
+            }
+            if (rest) out += rest
+            PFILES.shoeSize.text[jpText] = out
+        }
+    }
+
+    //* lesson-effects
+    for (let [jpText, enText] of Object.entries(PFILES.lessonEffects.text)) {
+        if (enText) continue;
+        enText = []
+        let matches
+        if (jpText.startsWith("＜")) {
+            matches = jpText.matchAll(/＜(?:作戦・)?(.+?)＞のスキルヒントLv (<color=#[a-z0-9]+>\+[\d～]+<\/color>)(?:\\n)?/img)
+            for (let m of matches) {
+                let [,apt, effect] = m
+                if (PFILES.common.text[apt]) {
+                    enText.push(`${PFILES.common.text[apt]} Skill Hint Lv ${effect}`)
+                }
+            }
+        }
+        else {
+            matches = jpText.matchAll(/(.+?) (<color=#[a-z0-9]+>\+[\d～]+<\/color>)(?:\\n)?/img)
+            for (let m of matches) {
+                let [,stat, effect] = m
+                if (PFILES.common.text[stat]) {
+                    enText.push(`${PFILES.common.text[stat]} ${effect}`)
+                }
+            }
+        }
+        PFILES.lessonEffects.text[jpText] = enText.join("\\n"); //write full name, whichever parts were found
+    }
+
+    //* item-desc
+    for (let [jpText, enText] of Object.entries(PFILES.items.text)) {
+        if (enText) continue;
+
+        let [,umaName] = jpText.match(/(.+)の手作りチョコ/)
+        let umaNameEn = PFILES.umaNames[umaName]
+        if (umaNameEn) {
+            PFILES.items.text[jpText] = `<size=22>Handmade by ${umaNameEn}. Restores 30TP upon use.\\n</size>`;
+        }
     }
 }
 
@@ -271,20 +349,21 @@ function translateSpecific (type, jpText, file) {
             if (race == "デイリー") out = `[Daily] `
             else if (race == "期間限定") out = `[Time-Limited] `
             else if (PFILES.races.text[race]) out = `[${PFILES.races.text[race]}] `
+            else out = `[${race}]`
         }
 
         if (m = jpText.match(/育成を(\d+)回完了しよう/)) {
             let [, n] = m;
             out += `Complete training ${n} time${n > 1 ? "s" : ""}`;
         }
-        else if (m = jpText.match(/育成で(.+)に.*勝利しよう/)) {
-            let [, r] = m;
+        else if (m = jpText.match(/(育成で)?(.+)に.*勝利しよう/)) {
+            let [, t, r] = m;
             r = PFILES.races.text[r]
             if (r) {
-                out += `Win ${r} in training`;
+                out += `Win ${r}${t ? " in training" : ""}`;
             }
         }
-        else if (m = jpText.match(/育成で(.+)の?(\d)着以内に入ろう/)) {
+        else if (m = jpText.match(/育成で(.+?)の?(\d)着以内に入ろう/)) {
             let [, r, p] = m;
             r = PFILES.races.text[r]
             if (r) {
@@ -311,8 +390,14 @@ function translateSpecific (type, jpText, file) {
                 out += `Obtain ${pt} total Carnival Pts`;
             }
         }
-        else if (jpText == "限定ミッションをすべてクリアしよう") {
+        else if (jpText.match(/限定ミッションを(?:すべて|全て)クリアしよう/)) {
             out += "Complete all limited missions";
+        }
+        else if (m = jpText.match(/全ての育成目標を達成して(\d+)回育成完了しよう/)) {
+            let [, n] = m;
+            if (n) {
+                out += `Clear all training goals ${n} times`;
+            }
         }
         else {
             found = false
@@ -356,6 +441,16 @@ function translateSpecific (type, jpText, file) {
             }
         }
     }
+    else if (type == "affec") {
+        m = jpText.match(/(.+?)の\\n親愛度ランクを(\d+)にしよう/)
+        if (m) {
+            let [,umaName, rank] = m, 
+                umaNameEn = PFILES.umaNames.text[umaName];
+            if (umaNameEn) {
+                data[jpText] = `Raise ${umaNameEn}'s \\naffection to rank ${rank}`;
+            }
+        }
+    }
 }
 
 function writeFiles() {
@@ -367,10 +462,12 @@ function writeFiles() {
     delete PFILES.misc;
     delete PFILES.common;
     for (let [file, content] of Object.entries(PFILES)) {
+        if (!UPDATE_UNCOMMON && UNCOMMON_FILES.includes(file)) continue
         fs.writeFileSync(FILES[file], JSON.stringify(content, null, 4), "utf-8");
     }
 }
 
+const UPDATE_UNCOMMON = process.argv.includes("-unc")
 console.log("Reading...");
 readFiles();
 console.log("Translating...");

@@ -38,6 +38,8 @@ def cleannewLines(text: str):
 
 
 def adjustLength(file: TranslationFile, text: str, opts, **overrides):
+    if opts.get("exclusiveNewlines") and re.match("\n|\\n", text):
+        return
     # todo: Find better way to deal with options
     numLines: int = overrides.get("numLines", 0)
     targetLines: int = overrides.get("targetLines", opts.get("targetLines", 3))
@@ -141,13 +143,12 @@ def main():
     ap = common.Args("Process text for linebreaks (game length limits), common errors, and standardized formatting",
                      types=common.SUPPORTED_TYPES)
     ap.add_argument("-src", help="Target Translation File, overwrites other file options")
-    ap.add_argument("-V", "--verbose", action="store_true", help="Print additional info")
     # Roughly 42-46 for most training story dialogue, 63-65 for wide screen stories (events etc)
     # Through overflow (thanks anni update!) up to 4 work for landscape content,
     # and up to 5 for portrait (quite pushing it though)
     ap.add_argument("-ll", dest="lineLength", default=-1, type=int, help="Characters per line. 0: disable, -1: auto")
-    ap.add_argument("-nl", dest="redoNewlines", action="store_true",
-                    help="Remove existing newlines for complete reformatting")
+    ap.add_argument("-nl", dest="redoNewlines", action="store_true", help="Remove existing newlines for complete reformatting")
+    ap.add_argument("-xnl", dest="exclusiveNewlines", action="store_true", help="Only add newlines to text without any yet.")
     ap.add_argument("-rep", dest="replaceMode", choices=["all", "limit", "none"], default="limit",
                     help="Mode/aggressiveness of replacements")
     ap.add_argument("-fsize", "--force-resize", dest="forceResize", action="store_true",
@@ -158,6 +159,10 @@ def main():
                     help="Target lines. Length adjustment skips input obeying -ll and not exceeding -tl")
     args = ap.parse_args()
 
+    if args.exclusiveNewlines and args.redoNewlines:
+        print("Incompatible newline options: force all + exclusive add.")
+        return
+
     processFiles(args)
 
 
@@ -165,7 +170,7 @@ def processFiles(args):
     if args.src:
         files = [args.src]
     else:
-        files = common.searchFiles(args.type, args.group, args.id, args.idx, changed = args.changed)
+        files = common.searchFiles(args.type, args.group, args.id, args.idx, targetSet=args.set, changed = args.changed)
     print(f"Processing {len(files)} files...")
     if args.lineLength == -1: print(f"Automatically setting line length based on story type/id or file value")
     for file in files:
@@ -186,8 +191,8 @@ def calcLineLen(file: TranslationFile, verbose):
     lineLength = file.data.get('lineLength')
     if lineLength is None:
         if (file.type in ("lyrics", "race")
-            or (file.type == "story"
-                and common.parseStoryId(file.type, file.getStoryId(), fromPath=False)[0] in ("02", "04", "09"))):
+        or (file.type == "story"
+        and common.StoryId.parse(file.type, file.getStoryId()).group in ("02", "04", "09"))):
             lineLength = 65
         else:
             lineLength = 45
