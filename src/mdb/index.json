@@ -105,6 +105,7 @@
         "specifier": "character_id",
         "subdir": true,
         "tlg": true,
+        "winBreaks": true,
         "files": {
             "tokai_teio": 1003,
             "ines": 1031,
@@ -118,7 +119,8 @@
 			"Dober": 1059,
 			"Tarumae": 1099,
 			"Taishin": 1050,
-			"Ardan": 1071
+			"Ardan": 1071,
+			"Fine" : 1022
         }
     }
 ]
